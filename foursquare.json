@@ -1,0 +1,41 @@
+# https://api.foursquare.com/v2/users/search?twitter=vineelreddy&oauth_token=KTQ5LBASTNBVBGLZOQVFFCDHX13J52EJFELMLYWXEIXCWYKM&v=20130713
+# 1RJ3JSPMCGSMFRY5SDZXL0W2TKD1ZRD2AIR4UND0BEBSBVYO
+{
+meta: {
+code: 200
+}
+notifications: [
+{
+type: "notificationTray"
+item: {
+unreadCount: 0
+}
+}
+]
+response: {
+results: [
+{
+id: "4125228"
+firstName: "Vineel Reddy"
+lastName: "Pindi"
+gender: "male"
+photo: {
+prefix: "https://irs0.4sqi.net/img/user/"
+suffix: "/JV3GTOIH5KRB3SNC.jpg"
+}
+tips: {
+count: 1
+}
+homeCity: "NEW YORK, NY"
+bio: ""
+contact: {
+twitter: "vineelreddy"
+facebook: "522066115"
+}
+}
+]
+unmatched: {
+twitter: [ ]
+}
+}
+}

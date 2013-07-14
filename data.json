@@ -1,0 +1,694 @@
+{"moodsOverTime": [], "overallMood": "", "majorMoods": "", "twitter": {"numResults": 20, "moods": [], "query": "statuses/user_timeline.json?user_id=28307354&count=20", "qtype": "status", "suggestions": [], "type": "Twitter", "id": 28307354, "actions": [], "results": [{"contributors": null, "truncated": false, "text": "What a day! RT @ydn: All pictures from Day 1 Hack India: Hyderabad can be found here:  http://t.co/QdY1Hc2HzZ #yahoohack", "in_reply_to_status_id": null, "id": 356077621030817794, "favorite_count": 0, "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>", "retweeted": false, "coordinates": null, "entities": {"symbols": [], "user_mentions": [{"id": 12904842, "indices": [15, 19], "id_str": "12904842", "screen_name": "ydn", "name": "Y! Developer Network"}], "hashtags": [{"indices": [110, 120], "text": "yahoohack"}], "urls": [{"url": "http://t.co/QdY1Hc2HzZ", "indices": [87, 109], "expanded_url": "http://bit.ly/yflickrindia", "display_url": "bit.ly/yflickrindia"}]}, "in_reply_to_screen_name": null, "id_str": "356077621030817794", "retweet_count": 2, "in_reply_to_user_id": null, "favorited": false, "user": {"follow_request_sent": false, "profile_use_background_image": false, "default_profile_image": false, "id": 28307354, "verified": false, "profile_text_color": "634047", "profile_image_url_https": "https://si0.twimg.com/profile_images/3763348131/1832bda681f47ddfe393c4f0c7802528_normal.jpeg", "profile_sidebar_fill_color": "E3E2DE", "entities": {"url": {"urls": [{"url": "http://t.co/34mHU6UwTT", "indices": [0, 22], "expanded_url": "http://mariposaagency.com", "display_url": "mariposaagency.com"}]}, "description": {"urls": []}}, "followers_count": 480, "profile_sidebar_border_color": "D3D2CF", "id_str": "28307354", "profile_background_color": "EDECE9", "listed_count": 19, "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/155012792/trumpets.jpg", "utc_offset": -28800, "statuses_count": 1867, "description": "Mozillian. Community Builder. Mariposa Agency.\r\n\r\nLove People, Cars, Technology, The Web & Pets.", "friends_count": 534, "location": "Hyderabd,INDIA.", "profile_link_color": "088253", "profile_image_url": "http://a0.twimg.com/profile_images/3763348131/1832bda681f47ddfe393c4f0c7802528_normal.jpeg", "following": null, "geo_enabled": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/28307354/1370532547", "profile_background_image_url": "http://a0.twimg.com/profile_background_images/155012792/trumpets.jpg", "screen_name": "vineelreddy", "lang": "en", "profile_background_tile": false, "favourites_count": 186, "name": "Vineel Reddy Pindi", "notifications": null, "url": "http://t.co/34mHU6UwTT", "created_at": "Thu Apr 02 09:05:32 +0000 2009", "contributors_enabled": false, "time_zone": "Pacific Time (US & Canada)", "protected": false, "default_profile": false, "is_translator": false}, "geo": null, "in_reply_to_user_id_str": null, "possibly_sensitive": false, "lang": "en", "created_at": "Sat Jul 13 15:48:15 +0000 2013", "in_reply_to_status_id_str": null, "place": null}, {"contributors": null, "truncated": false, "text": "RT @sudheesh001: Great design presentation. Feeling inspired. #yhackhyderabad2013", "in_reply_to_status_id": null, "id": 356033764998127617, "favorite_count": 0, "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>", "retweeted": false, "coordinates": null, "entities": {"symbols": [], "user_mentions": [{"id": 390171807, "indices": [3, 15], "id_str": "390171807", "screen_name": "sudheesh001", "name": "SUDHEESH"}], "hashtags": [{"indices": [62, 81], "text": "yhackhyderabad2013"}], "urls": []}, "in_reply_to_screen_name": null, "id_str": "356033764998127617", "retweet_count": 3, "in_reply_to_user_id": null, "favorited": false, "retweeted_status": {"contributors": null, "truncated": false, "text": "Great design presentation. Feeling inspired. #yhackhyderabad2013", "in_reply_to_status_id": null, "id": 355946684695580672, "favorite_count": 1, "source": "web", "retweeted": false, "coordinates": null, "entities": {"symbols": [], "user_mentions": [], "hashtags": [{"indices": [45, 64], "text": "yhackhyderabad2013"}], "urls": []}, "in_reply_to_screen_name": null, "id_str": "355946684695580672", "retweet_count": 3, "in_reply_to_user_id": null, "favorited": false, "user": {"follow_request_sent": false, "profile_use_background_image": false, "default_profile_image": false, "id": 390171807, "verified": false, "profile_text_color": "333333", "profile_image_url_https": "https://si0.twimg.com/profile_images/3407473139/4bcdf201f1218d6f2e145da10f155f7a_normal.jpeg", "profile_sidebar_fill_color": "DDEEF6", "entities": {"url": {"urls": [{"url": "http://t.co/OX3zFAwCDS", "indices": [0, 22], "expanded_url": "http://about.me/sudheeshsinganamalla", "display_url": "about.me/sudheeshsingan\u2026"}]}, "description": {"urls": []}}, "followers_count": 29, "profile_sidebar_border_color": "C0DEED", "id_str": "390171807", "profile_background_color": "352726", "listed_count": 2, "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme5/bg.gif", "utc_offset": null, "statuses_count": 434, "description": "Mozilla Support, Firefox Windows 8, Microsoft Academic Accelerator, Researcher, Hacker and Entrepreneur", "friends_count": 85, "location": "", "profile_link_color": "D02B55", "profile_image_url": "http://a0.twimg.com/profile_images/3407473139/4bcdf201f1218d6f2e145da10f155f7a_normal.jpeg", "following": null, "geo_enabled": false, "profile_background_image_url": "http://a0.twimg.com/images/themes/theme5/bg.gif", "screen_name": "sudheesh001", "lang": "en", "profile_background_tile": false, "favourites_count": 2, "name": "SUDHEESH", "notifications": null, "url": "http://t.co/OX3zFAwCDS", "created_at": "Thu Oct 13 15:35:51 +0000 2011", "contributors_enabled": false, "time_zone": null, "protected": false, "default_profile": false, "is_translator": false}, "geo": null, "in_reply_to_user_id_str": null, "lang": "en", "created_at": "Sat Jul 13 07:07:57 +0000 2013", "in_reply_to_status_id_str": null, "place": null}, "user": {"follow_request_sent": false, "profile_use_background_image": false, "default_profile_image": false, "id": 28307354, "verified": false, "profile_text_color": "634047", "profile_image_url_https": "https://si0.twimg.com/profile_images/3763348131/1832bda681f47ddfe393c4f0c7802528_normal.jpeg", "profile_sidebar_fill_color": "E3E2DE", "entities": {"url": {"urls": [{"url": "http://t.co/34mHU6UwTT", "indices": [0, 22], "expanded_url": "http://mariposaagency.com", "display_url": "mariposaagency.com"}]}, "description": {"urls": []}}, "followers_count": 480, "profile_sidebar_border_color": "D3D2CF", "id_str": "28307354", "profile_background_color": "EDECE9", "listed_count": 19, "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/155012792/trumpets.jpg", "utc_offset": -28800, "statuses_count": 1867, "description": "Mozillian. Community Builder. Mariposa Agency.\r\n\r\nLove People, Cars, Technology, The Web & Pets.", "friends_count": 534, "location": "Hyderabd,INDIA.", "profile_link_color": "088253", "profile_image_url": "http://a0.twimg.com/profile_images/3763348131/1832bda681f47ddfe393c4f0c7802528_normal.jpeg", "following": null, "geo_enabled": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/28307354/1370532547", "profile_background_image_url": "http://a0.twimg.com/profile_background_images/155012792/trumpets.jpg", "screen_name": "vineelreddy", "lang": "en", "profile_background_tile": false, "favourites_count": 186, "name": "Vineel Reddy Pindi", "notifications": null, "url": "http://t.co/34mHU6UwTT", "created_at": "Thu Apr 02 09:05:32 +0000 2009", "contributors_enabled": false, "time_zone": "Pacific Time (US & Canada)", "protected": false, "default_profile": false, "is_translator": false}, "geo": null, "in_reply_to_user_id_str": null, "lang": "en", "created_at": "Sat Jul 13 12:53:59 +0000 2013", "in_reply_to_status_id_str": null, "place": null}, {"contributors": null, "truncated": false, "text": "RT @ydn: Hyderabad hackers: stop by the Yahoo! table for answers to your tech questions and for design help from @arunimasaboo @prasannare \u2026", "in_reply_to_status_id": null, "id": 356005322021806081, "favorite_count": 0, "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>", "retweeted": false, "coordinates": null, "entities": {"symbols": [], "user_mentions": [{"id": 12904842, "indices": [3, 7], "id_str": "12904842", "screen_name": "ydn", "name": "Y! Developer Network"}, {"id": 14581455, "indices": [113, 126], "id_str": "14581455", "screen_name": "arunimasaboo", "name": "arunimasaboo"}, {"id": 14796894, "indices": [127, 138], "id_str": "14796894", "screen_name": "prasannare", "name": "Prasanna Revan"}], "hashtags": [], "urls": []}, "in_reply_to_screen_name": null, "id_str": "356005322021806081", "retweet_count": 4, "in_reply_to_user_id": null, "favorited": false, "retweeted_status": {"contributors": null, "truncated": false, "text": "Hyderabad hackers: stop by the Yahoo! table for answers to your tech questions and for design help from @arunimasaboo @prasannare #yahoohack", "in_reply_to_status_id": null, "id": 356005022586257408, "favorite_count": 0, "source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>", "retweeted": false, "coordinates": null, "entities": {"symbols": [], "user_mentions": [{"id": 14581455, "indices": [104, 117], "id_str": "14581455", "screen_name": "arunimasaboo", "name": "arunimasaboo"}, {"id": 14796894, "indices": [118, 129], "id_str": "14796894", "screen_name": "prasannare", "name": "Prasanna Revan"}], "hashtags": [{"indices": [130, 140], "text": "yahoohack"}], "urls": []}, "in_reply_to_screen_name": null, "id_str": "356005022586257408", "retweet_count": 4, "in_reply_to_user_id": null, "favorited": false, "user": {"follow_request_sent": false, "profile_use_background_image": true, "default_profile_image": false, "id": 12904842, "verified": true, "profile_text_color": "333333", "profile_image_url_https": "https://si0.twimg.com/profile_images/2911750232/6a0cb5e0ba98788fa189437e8f1ab226_normal.png", "profile_sidebar_fill_color": "DDEEF6", "entities": {"url": {"urls": [{"url": "http://t.co/VLdd6CIjWt", "indices": [0, 22], "expanded_url": "http://developer.yahoo.com/blogs/ydn/", "display_url": "developer.yahoo.com/blogs/ydn/"}]}, "description": {"urls": []}}, "followers_count": 17989, "profile_sidebar_border_color": "FFFFFF", "id_str": "12904842", "profile_background_color": "FFFFFF", "listed_count": 786, "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/724797681/254a93417d87340544a839f74cf0728c.jpeg", "utc_offset": -32400, "statuses_count": 4280, "description": "The official twitter account for the Yahoo! Developer Network", "friends_count": 252, "location": "Sunnyvale, CA and worldwide", "profile_link_color": "0084B4", "profile_image_url": "http://a0.twimg.com/profile_images/2911750232/6a0cb5e0ba98788fa189437e8f1ab226_normal.png", "following": null, "geo_enabled": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/12904842/1354200683", "profile_background_image_url": "http://a0.twimg.com/profile_background_images/724797681/254a93417d87340544a839f74cf0728c.jpeg", "screen_name": "ydn", "lang": "en", "profile_background_tile": false, "favourites_count": 86, "name": "Y! Developer Network", "notifications": null, "url": "http://t.co/VLdd6CIjWt", "created_at": "Thu Jan 31 11:37:53 +0000 2008", "contributors_enabled": false, "time_zone": "Alaska", "protected": false, "default_profile": false, "is_translator": false}, "geo": null, "in_reply_to_user_id_str": null, "lang": "en", "created_at": "Sat Jul 13 10:59:46 +0000 2013", "in_reply_to_status_id_str": null, "place": null}, "user": {"follow_request_sent": false, "profile_use_background_image": false, "default_profile_image": false, "id": 28307354, "verified": false, "profile_text_color": "634047", "profile_image_url_https": "https://si0.twimg.com/profile_images/3763348131/1832bda681f47ddfe393c4f0c7802528_normal.jpeg", "profile_sidebar_fill_color": "E3E2DE", "entities": {"url": {"urls": [{"url": "http://t.co/34mHU6UwTT", "indices": [0, 22], "expanded_url": "http://mariposaagency.com", "display_url": "mariposaagency.com"}]}, "description": {"urls": []}}, "followers_count": 480, "profile_sidebar_border_color": "D3D2CF", "id_str": "28307354", "profile_background_color": "EDECE9", "listed_count": 19, "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/155012792/trumpets.jpg", "utc_offset": -28800, "statuses_count": 1867, "description": "Mozillian. Community Builder. Mariposa Agency.\r\n\r\nLove People, Cars, Technology, The Web & Pets.", "friends_count": 534, "location": "Hyderabd,INDIA.", "profile_link_color": "088253", "profile_image_url": "http://a0.twimg.com/profile_images/3763348131/1832bda681f47ddfe393c4f0c7802528_normal.jpeg", "following": null, "geo_enabled": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/28307354/1370532547", "profile_background_image_url": "http://a0.twimg.com/profile_background_images/155012792/trumpets.jpg", "screen_name": "vineelreddy", "lang": "en", "profile_background_tile": false, "favourites_count": 186, "name": "Vineel Reddy Pindi", "notifications": null, "url": "http://t.co/34mHU6UwTT", "created_at": "Thu Apr 02 09:05:32 +0000 2009", "contributors_enabled": false, "time_zone": "Pacific Time (US & Canada)", "protected": false, "default_profile": false, "is_translator": false}, "geo": null, "in_reply_to_user_id_str": null, "lang": "en", "created_at": "Sat Jul 13 11:00:57 +0000 2013", "in_reply_to_status_id_str": null, "place": null}, {"contributors": null, "truncated": false, "text": "RT @aravind_baskara: Sleep depravity starting @ydn #yhackhyderabad2013 http://t.co/WfupA3f70r", "in_reply_to_status_id": null, "id": 355987659161747458, "favorite_count": 0, "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>", "retweeted": false, "coordinates": null, "entities": {"symbols": [], "user_mentions": [{"id": 326883621, "indices": [3, 19], "id_str": "326883621", "screen_name": "aravind_baskara", "name": "Aravind Baskaran"}, {"id": 12904842, "indices": [46, 50], "id_str": "12904842", "screen_name": "ydn", "name": "Y! Developer Network"}], "hashtags": [{"indices": [51, 70], "text": "yhackhyderabad2013"}], "urls": [], "media": [{"source_status_id_str": "355952400961531904", "expanded_url": "http://twitter.com/aravind_baskara/status/355952400961531904/photo/1", "display_url": "pic.twitter.com/WfupA3f70r", "url": "http://t.co/WfupA3f70r", "media_url_https": "https://pbs.twimg.com/media/BPCY0qCCcAAAGuj.jpg", "source_status_id": 355952400961531904, "id_str": "355952400965726208", "sizes": {"large": {"h": 764, "resize": "fit", "w": 1024}, "small": {"h": 254, "resize": "fit", "w": 340}, "medium": {"h": 448, "resize": "fit", "w": 600}, "thumb": {"h": 150, "resize": "crop", "w": 150}}, "indices": [71, 93], "type": "photo", "id": 355952400965726208, "media_url": "http://pbs.twimg.com/media/BPCY0qCCcAAAGuj.jpg"}]}, "in_reply_to_screen_name": null, "id_str": "355987659161747458", "retweet_count": 3, "in_reply_to_user_id": null, "favorited": false, "retweeted_status": {"contributors": null, "truncated": false, "text": "Sleep depravity starting @ydn #yhackhyderabad2013 http://t.co/WfupA3f70r", "in_reply_to_status_id": null, "id": 355952400961531904, "favorite_count": 1, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "retweeted": false, "coordinates": null, "entities": {"symbols": [], "user_mentions": [{"id": 12904842, "indices": [25, 29], "id_str": "12904842", "screen_name": "ydn", "name": "Y! Developer Network"}], "hashtags": [{"indices": [30, 49], "text": "yhackhyderabad2013"}], "urls": [], "media": [{"expanded_url": "http://twitter.com/aravind_baskara/status/355952400961531904/photo/1", "display_url": "pic.twitter.com/WfupA3f70r", "url": "http://t.co/WfupA3f70r", "media_url_https": "https://pbs.twimg.com/media/BPCY0qCCcAAAGuj.jpg", "id_str": "355952400965726208", "sizes": {"large": {"h": 764, "resize": "fit", "w": 1024}, "small": {"h": 254, "resize": "fit", "w": 340}, "medium": {"h": 448, "resize": "fit", "w": 600}, "thumb": {"h": 150, "resize": "crop", "w": 150}}, "indices": [50, 72], "type": "photo", "id": 355952400965726208, "media_url": "http://pbs.twimg.com/media/BPCY0qCCcAAAGuj.jpg"}]}, "in_reply_to_screen_name": null, "id_str": "355952400961531904", "retweet_count": 3, "in_reply_to_user_id": null, "favorited": false, "user": {"follow_request_sent": false, "profile_use_background_image": true, "default_profile_image": false, "id": 326883621, "verified": false, "profile_text_color": "333333", "profile_image_url_https": "https://si0.twimg.com/profile_images/3636739368/ddaccf56bf6cfdcc84386f43758edd90_normal.jpeg", "profile_sidebar_fill_color": "DDEEF6", "entities": {"url": {"urls": [{"url": "http://t.co/aLdSF2H13D", "indices": [0, 22], "expanded_url": "http://about.me/aravind_b", "display_url": "about.me/aravind_b"}]}, "description": {"urls": []}}, "followers_count": 37, "profile_sidebar_border_color": "C0DEED", "id_str": "326883621", "profile_background_color": "C0DEED", "listed_count": 1, "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png", "utc_offset": -36000, "statuses_count": 152, "description": "Engineer at @CloudPact. \nBuilding the Enterprise Mobility suite for the present.", "friends_count": 57, "location": "Hyderabad", "profile_link_color": "0084B4", "profile_image_url": "http://a0.twimg.com/profile_images/3636739368/ddaccf56bf6cfdcc84386f43758edd90_normal.jpeg", "following": false, "geo_enabled": true, "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png", "screen_name": "aravind_baskara", "lang": "en", "profile_background_tile": false, "favourites_count": 6, "name": "Aravind Baskaran", "notifications": false, "url": "http://t.co/aLdSF2H13D", "created_at": "Thu Jun 30 17:01:13 +0000 2011", "contributors_enabled": false, "time_zone": "Hawaii", "protected": false, "default_profile": true, "is_translator": false}, "geo": null, "in_reply_to_user_id_str": null, "possibly_sensitive": false, "lang": "en", "created_at": "Sat Jul 13 07:30:40 +0000 2013", "in_reply_to_status_id_str": null, "place": null}, "user": {"follow_request_sent": false, "profile_use_background_image": false, "default_profile_image": false, "id": 28307354, "verified": false, "profile_text_color": "634047", "profile_image_url_https": "https://si0.twimg.com/profile_images/3763348131/1832bda681f47ddfe393c4f0c7802528_normal.jpeg", "profile_sidebar_fill_color": "E3E2DE", "entities": {"url": {"urls": [{"url": "http://t.co/34mHU6UwTT", "indices": [0, 22], "expanded_url": "http://mariposaagency.com", "display_url": "mariposaagency.com"}]}, "description": {"urls": []}}, "followers_count": 480, "profile_sidebar_border_color": "D3D2CF", "id_str": "28307354", "profile_background_color": "EDECE9", "listed_count": 19, "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/155012792/trumpets.jpg", "utc_offset": -28800, "statuses_count": 1867, "description": "Mozillian. Community Builder. Mariposa Agency.\r\n\r\nLove People, Cars, Technology, The Web & Pets.", "friends_count": 534, "location": "Hyderabd,INDIA.", "profile_link_color": "088253", "profile_image_url": "http://a0.twimg.com/profile_images/3763348131/1832bda681f47ddfe393c4f0c7802528_normal.jpeg", "following": null, "geo_enabled": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/28307354/1370532547", "profile_background_image_url": "http://a0.twimg.com/profile_background_images/155012792/trumpets.jpg", "screen_name": "vineelreddy", "lang": "en", "profile_background_tile": false, "favourites_count": 186, "name": "Vineel Reddy Pindi", "notifications": null, "url": "http://t.co/34mHU6UwTT", "created_at": "Thu Apr 02 09:05:32 +0000 2009", "contributors_enabled": false, "time_zone": "Pacific Time (US & Canada)", "protected": false, "default_profile": false, "is_translator": false}, "geo": null, "in_reply_to_user_id_str": null, "possibly_sensitive": false, "lang": "en", "created_at": "Sat Jul 13 09:50:46 +0000 2013", "in_reply_to_status_id_str": null, "place": null}, {"contributors": null, "truncated": false, "text": "RT @shwetank: Just got done speaking at Yahoo Hack Day India ... Really cool event :) Having a great time!", "in_reply_to_status_id": null, "id": 355942281381036033, "favorite_count": 0, "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>", "retweeted": false, "coordinates": null, "entities": {"symbols": [], "user_mentions": [{"id": 8781682, "indices": [3, 12], "id_str": "8781682", "screen_name": "shwetank", "name": "shwetank"}], "hashtags": [], "urls": []}, "in_reply_to_screen_name": null, "id_str": "355942281381036033", "retweet_count": 3, "in_reply_to_user_id": null, "favorited": false, "retweeted_status": {"contributors": null, "truncated": false, "text": "Just got done speaking at Yahoo Hack Day India ... Really cool event :) Having a great time!", "in_reply_to_status_id": null, "id": 355941675039862785, "favorite_count": 0, "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>", "retweeted": false, "coordinates": null, "entities": {"symbols": [], "user_mentions": [], "hashtags": [], "urls": []}, "in_reply_to_screen_name": null, "id_str": "355941675039862785", "retweet_count": 3, "in_reply_to_user_id": null, "favorited": false, "user": {"follow_request_sent": false, "profile_use_background_image": false, "default_profile_image": false, "id": 8781682, "verified": false, "profile_text_color": "323232", "profile_image_url_https": "https://si0.twimg.com/profile_images/51849848/1resized2_normal.jpg", "profile_sidebar_fill_color": "E0FF92", "entities": {"url": {"urls": [{"url": "http://t.co/Q4lklficqc", "indices": [0, 22], "expanded_url": "http://my.opera.com/shwetankdixit", "display_url": "my.opera.com/shwetankdixit"}]}, "description": {"urls": []}}, "followers_count": 1465, "profile_sidebar_border_color": "87BC44", "id_str": "8781682", "profile_background_color": "595C5D", "listed_count": 108, "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png", "utc_offset": 19800, "statuses_count": 3154, "description": "Web Evangelist at Opera", "friends_count": 653, "location": "", "profile_link_color": "82AFAF", "profile_image_url": "http://a0.twimg.com/profile_images/51849848/1resized2_normal.jpg", "following": null, "geo_enabled": true, "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png", "screen_name": "shwetank", "lang": "en", "profile_background_tile": false, "favourites_count": 59, "name": "shwetank", "notifications": null, "url": "http://t.co/Q4lklficqc", "created_at": "Mon Sep 10 08:53:17 +0000 2007", "contributors_enabled": false, "time_zone": "New Delhi", "protected": false, "default_profile": false, "is_translator": false}, "geo": null, "in_reply_to_user_id_str": null, "lang": "en", "created_at": "Sat Jul 13 06:48:03 +0000 2013", "in_reply_to_status_id_str": null, "place": null}, "user": {"follow_request_sent": false, "profile_use_background_image": false, "default_profile_image": false, "id": 28307354, "verified": false, "profile_text_color": "634047", "profile_image_url_https": "https://si0.twimg.com/profile_images/3763348131/1832bda681f47ddfe393c4f0c7802528_normal.jpeg", "profile_sidebar_fill_color": "E3E2DE", "entities": {"url": {"urls": [{"url": "http://t.co/34mHU6UwTT", "indices": [0, 22], "expanded_url": "http://mariposaagency.com", "display_url": "mariposaagency.com"}]}, "description": {"urls": []}}, "followers_count": 480, "profile_sidebar_border_color": "D3D2CF", "id_str": "28307354", "profile_background_color": "EDECE9", "listed_count": 19, "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/155012792/trumpets.jpg", "utc_offset": -28800, "statuses_count": 1867, "description": "Mozillian. Community Builder. Mariposa Agency.\r\n\r\nLove People, Cars, Technology, The Web & Pets.", "friends_count": 534, "location": "Hyderabd,INDIA.", "profile_link_color": "088253", "profile_image_url": "http://a0.twimg.com/profile_images/3763348131/1832bda681f47ddfe393c4f0c7802528_normal.jpeg", "following": null, "geo_enabled": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/28307354/1370532547", "profile_background_image_url": "http://a0.twimg.com/profile_background_images/155012792/trumpets.jpg", "screen_name": "vineelreddy", "lang": "en", "profile_background_tile": false, "favourites_count": 186, "name": "Vineel Reddy Pindi", "notifications": null, "url": "http://t.co/34mHU6UwTT", "created_at": "Thu Apr 02 09:05:32 +0000 2009", "contributors_enabled": false, "time_zone": "Pacific Time (US & Canada)", "protected": false, "default_profile": false, "is_translator": false}, "geo": null, "in_reply_to_user_id_str": null, "lang": "en", "created_at": "Sat Jul 13 06:50:27 +0000 2013", "in_reply_to_status_id_str": null, "place": null}, {"contributors": null, "truncated": false, "text": "@just22jay hey yes! You can find me at the last row of hall", "in_reply_to_status_id": 355890161856417793, "id": 355895991280467969, "favorite_count": 0, "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>", "retweeted": false, "coordinates": null, "entities": {"symbols": [], "user_mentions": [{"id": 163534691, "indices": [0, 10], "id_str": "163534691", "screen_name": "just22jay", "name": "jayanth kashyap"}], "hashtags": [], "urls": []}, "in_reply_to_screen_name": "just22jay", "id_str": "355895991280467969", "retweet_count": 0, "in_reply_to_user_id": 163534691, "favorited": false, "user": {"follow_request_sent": false, "profile_use_background_image": false, "default_profile_image": false, "id": 28307354, "verified": false, "profile_text_color": "634047", "profile_image_url_https": "https://si0.twimg.com/profile_images/3763348131/1832bda681f47ddfe393c4f0c7802528_normal.jpeg", "profile_sidebar_fill_color": "E3E2DE", "entities": {"url": {"urls": [{"url": "http://t.co/34mHU6UwTT", "indices": [0, 22], "expanded_url": "http://mariposaagency.com", "display_url": "mariposaagency.com"}]}, "description": {"urls": []}}, "followers_count": 480, "profile_sidebar_border_color": "D3D2CF", "id_str": "28307354", "profile_background_color": "EDECE9", "listed_count": 19, "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/155012792/trumpets.jpg", "utc_offset": -28800, "statuses_count": 1867, "description": "Mozillian. Community Builder. Mariposa Agency.\r\n\r\nLove People, Cars, Technology, The Web & Pets.", "friends_count": 534, "location": "Hyderabd,INDIA.", "profile_link_color": "088253", "profile_image_url": "http://a0.twimg.com/profile_images/3763348131/1832bda681f47ddfe393c4f0c7802528_normal.jpeg", "following": null, "geo_enabled": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/28307354/1370532547", "profile_background_image_url": "http://a0.twimg.com/profile_background_images/155012792/trumpets.jpg", "screen_name": "vineelreddy", "lang": "en", "profile_background_tile": false, "favourites_count": 186, "name": "Vineel Reddy Pindi", "notifications": null, "url": "http://t.co/34mHU6UwTT", "created_at": "Thu Apr 02 09:05:32 +0000 2009", "contributors_enabled": false, "time_zone": "Pacific Time (US & Canada)", "protected": false, "default_profile": false, "is_translator": false}, "geo": null, "in_reply_to_user_id_str": "163534691", "lang": "en", "created_at": "Sat Jul 13 03:46:31 +0000 2013", "in_reply_to_status_id_str": "355890161856417793", "place": null}, {"contributors": null, "truncated": false, "text": "Good morning #Yahoohack Hyderabad ! http://t.co/HIaYHJaZ1D", "in_reply_to_status_id": null, "id": 355877913951862785, "favorite_count": 2, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweeted": false, "coordinates": null, "entities": {"symbols": [], "user_mentions": [], "hashtags": [{"indices": [13, 23], "text": "Yahoohack"}], "urls": [], "media": [{"expanded_url": "http://twitter.com/vineelreddy/status/355877913951862785/photo/1", "display_url": "pic.twitter.com/HIaYHJaZ1D", "url": "http://t.co/HIaYHJaZ1D", "media_url_https": "https://pbs.twimg.com/media/BPBVE8TCAAISRCq.jpg", "id_str": "355877913956057090", "sizes": {"large": {"h": 768, "resize": "fit", "w": 1024}, "small": {"h": 255, "resize": "fit", "w": 340}, "medium": {"h": 450, "resize": "fit", "w": 600}, "thumb": {"h": 150, "resize": "crop", "w": 150}}, "indices": [36, 58], "type": "photo", "id": 355877913956057090, "media_url": "http://pbs.twimg.com/media/BPBVE8TCAAISRCq.jpg"}]}, "in_reply_to_screen_name": null, "id_str": "355877913951862785", "retweet_count": 2, "in_reply_to_user_id": null, "favorited": false, "user": {"follow_request_sent": false, "profile_use_background_image": false, "default_profile_image": false, "id": 28307354, "verified": false, "profile_text_color": "634047", "profile_image_url_https": "https://si0.twimg.com/profile_images/3763348131/1832bda681f47ddfe393c4f0c7802528_normal.jpeg", "profile_sidebar_fill_color": "E3E2DE", "entities": {"url": {"urls": [{"url": "http://t.co/34mHU6UwTT", "indices": [0, 22], "expanded_url": "http://mariposaagency.com", "display_url": "mariposaagency.com"}]}, "description": {"urls": []}}, "followers_count": 480, "profile_sidebar_border_color": "D3D2CF", "id_str": "28307354", "profile_background_color": "EDECE9", "listed_count": 19, "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/155012792/trumpets.jpg", "utc_offset": -28800, "statuses_count": 1867, "description": "Mozillian. Community Builder. Mariposa Agency.\r\n\r\nLove People, Cars, Technology, The Web & Pets.", "friends_count": 534, "location": "Hyderabd,INDIA.", "profile_link_color": "088253", "profile_image_url": "http://a0.twimg.com/profile_images/3763348131/1832bda681f47ddfe393c4f0c7802528_normal.jpeg", "following": null, "geo_enabled": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/28307354/1370532547", "profile_background_image_url": "http://a0.twimg.com/profile_background_images/155012792/trumpets.jpg", "screen_name": "vineelreddy", "lang": "en", "profile_background_tile": false, "favourites_count": 186, "name": "Vineel Reddy Pindi", "notifications": null, "url": "http://t.co/34mHU6UwTT", "created_at": "Thu Apr 02 09:05:32 +0000 2009", "contributors_enabled": false, "time_zone": "Pacific Time (US & Canada)", "protected": false, "default_profile": false, "is_translator": false}, "geo": null, "in_reply_to_user_id_str": null, "possibly_sensitive": false, "lang": "en", "created_at": "Sat Jul 13 02:34:41 +0000 2013", "in_reply_to_status_id_str": null, "place": null}, {"contributors": null, "truncated": false, "text": "RT @ErikRose: @BrendanEich Any public plans for launching #FirefoxOS in India? Everybody here is clamoring for it!", "in_reply_to_status_id": null, "id": 355622828793544704, "favorite_count": 0, "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>", "retweeted": false, "coordinates": null, "entities": {"symbols": [], "user_mentions": [{"id": 1759881, "indices": [3, 12], "id_str": "1759881", "screen_name": "ErikRose", "name": "Erik Rose"}, {"id": 9533042, "indices": [14, 26], "id_str": "9533042", "screen_name": "BrendanEich", "name": "BrendanEich"}], "hashtags": [{"indices": [58, 68], "text": "FirefoxOS"}], "urls": []}, "in_reply_to_screen_name": null, "id_str": "355622828793544704", "retweet_count": 4, "in_reply_to_user_id": null, "favorited": false, "retweeted_status": {"contributors": null, "truncated": false, "text": "@BrendanEich Any public plans for launching #FirefoxOS in India? Everybody here is clamoring for it!", "in_reply_to_status_id": 355590677318479872, "id": 355615473175498752, "favorite_count": 3, "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>", "retweeted": false, "coordinates": null, "entities": {"symbols": [], "user_mentions": [{"id": 9533042, "indices": [0, 12], "id_str": "9533042", "screen_name": "BrendanEich", "name": "BrendanEich"}], "hashtags": [{"indices": [44, 54], "text": "FirefoxOS"}], "urls": []}, "in_reply_to_screen_name": "BrendanEich", "id_str": "355615473175498752", "retweet_count": 4, "in_reply_to_user_id": 9533042, "favorited": false, "user": {"follow_request_sent": false, "profile_use_background_image": true, "default_profile_image": false, "id": 1759881, "verified": false, "profile_text_color": "000000", "profile_image_url_https": "https://si0.twimg.com/profile_images/3570404600/22989e776a4854849b67163815a32e8d_normal.jpeg", "profile_sidebar_fill_color": "E0FF92", "entities": {"url": {"urls": [{"url": "http://t.co/73g6LqAy7l", "indices": [0, 22], "expanded_url": "http://www.grinchcentral.com/", "display_url": "grinchcentral.com"}]}, "description": {"urls": []}}, "followers_count": 677, "profile_sidebar_border_color": "87BC44", "id_str": "1759881", "profile_background_color": "9AE4E8", "listed_count": 71, "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png", "utc_offset": -28800, "statuses_count": 3311, "description": "In my laboratory under the volcano, I play with parsers & write static analysis tools for the Firefox codebase. Sometimes, I emerge & present about something.", "friends_count": 121, "location": "Silicon Valley", "profile_link_color": "0000FF", "profile_image_url": "http://a0.twimg.com/profile_images/3570404600/22989e776a4854849b67163815a32e8d_normal.jpeg", "following": null, "geo_enabled": false, "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png", "screen_name": "ErikRose", "lang": "en", "profile_background_tile": false, "favourites_count": 217, "name": "Erik Rose", "notifications": null, "url": "http://t.co/73g6LqAy7l", "created_at": "Wed Mar 21 15:36:01 +0000 2007", "contributors_enabled": false, "time_zone": "Pacific Time (US & Canada)", "protected": false, "default_profile": false, "is_translator": false}, "geo": null, "in_reply_to_user_id_str": "9533042", "lang": "en", "created_at": "Fri Jul 12 09:11:50 +0000 2013", "in_reply_to_status_id_str": "355590677318479872", "place": null}, "user": {"follow_request_sent": false, "profile_use_background_image": false, "default_profile_image": false, "id": 28307354, "verified": false, "profile_text_color": "634047", "profile_image_url_https": "https://si0.twimg.com/profile_images/3763348131/1832bda681f47ddfe393c4f0c7802528_normal.jpeg", "profile_sidebar_fill_color": "E3E2DE", "entities": {"url": {"urls": [{"url": "http://t.co/34mHU6UwTT", "indices": [0, 22], "expanded_url": "http://mariposaagency.com", "display_url": "mariposaagency.com"}]}, "description": {"urls": []}}, "followers_count": 480, "profile_sidebar_border_color": "D3D2CF", "id_str": "28307354", "profile_background_color": "EDECE9", "listed_count": 19, "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/155012792/trumpets.jpg", "utc_offset": -28800, "statuses_count": 1867, "description": "Mozillian. Community Builder. Mariposa Agency.\r\n\r\nLove People, Cars, Technology, The Web & Pets.", "friends_count": 534, "location": "Hyderabd,INDIA.", "profile_link_color": "088253", "profile_image_url": "http://a0.twimg.com/profile_images/3763348131/1832bda681f47ddfe393c4f0c7802528_normal.jpeg", "following": null, "geo_enabled": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/28307354/1370532547", "profile_background_image_url": "http://a0.twimg.com/profile_background_images/155012792/trumpets.jpg", "screen_name": "vineelreddy", "lang": "en", "profile_background_tile": false, "favourites_count": 186, "name": "Vineel Reddy Pindi", "notifications": null, "url": "http://t.co/34mHU6UwTT", "created_at": "Thu Apr 02 09:05:32 +0000 2009", "contributors_enabled": false, "time_zone": "Pacific Time (US & Canada)", "protected": false, "default_profile": false, "is_translator": false}, "geo": null, "in_reply_to_user_id_str": null, "lang": "en", "created_at": "Fri Jul 12 09:41:04 +0000 2013", "in_reply_to_status_id_str": null, "place": null}, {"contributors": null, "truncated": false, "text": "1 day to go!! RT @ydn: Yahoo! Hack India: Hyderabad starts tomorrow at 8:00  Tune in here (@YDN) for live updates from Hyderabad!", "in_reply_to_status_id": null, "id": 355606957807243264, "favorite_count": 0, "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>", "retweeted": false, "coordinates": null, "entities": {"symbols": [], "user_mentions": [{"id": 12904842, "indices": [17, 21], "id_str": "12904842", "screen_name": "ydn", "name": "Y! Developer Network"}, {"id": 12904842, "indices": [91, 95], "id_str": "12904842", "screen_name": "ydn", "name": "Y! Developer Network"}], "hashtags": [], "urls": []}, "in_reply_to_screen_name": null, "id_str": "355606957807243264", "retweet_count": 1, "in_reply_to_user_id": null, "favorited": false, "user": {"follow_request_sent": false, "profile_use_background_image": false, "default_profile_image": false, "id": 28307354, "verified": false, "profile_text_color": "634047", "profile_image_url_https": "https://si0.twimg.com/profile_images/3763348131/1832bda681f47ddfe393c4f0c7802528_normal.jpeg", "profile_sidebar_fill_color": "E3E2DE", "entities": {"url": {"urls": [{"url": "http://t.co/34mHU6UwTT", "indices": [0, 22], "expanded_url": "http://mariposaagency.com", "display_url": "mariposaagency.com"}]}, "description": {"urls": []}}, "followers_count": 480, "profile_sidebar_border_color": "D3D2CF", "id_str": "28307354", "profile_background_color": "EDECE9", "listed_count": 19, "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/155012792/trumpets.jpg", "utc_offset": -28800, "statuses_count": 1867, "description": "Mozillian. Community Builder. Mariposa Agency.\r\n\r\nLove People, Cars, Technology, The Web & Pets.", "friends_count": 534, "location": "Hyderabd,INDIA.", "profile_link_color": "088253", "profile_image_url": "http://a0.twimg.com/profile_images/3763348131/1832bda681f47ddfe393c4f0c7802528_normal.jpeg", "following": null, "geo_enabled": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/28307354/1370532547", "profile_background_image_url": "http://a0.twimg.com/profile_background_images/155012792/trumpets.jpg", "screen_name": "vineelreddy", "lang": "en", "profile_background_tile": false, "favourites_count": 186, "name": "Vineel Reddy Pindi", "notifications": null, "url": "http://t.co/34mHU6UwTT", "created_at": "Thu Apr 02 09:05:32 +0000 2009", "contributors_enabled": false, "time_zone": "Pacific Time (US & Canada)", "protected": false, "default_profile": false, "is_translator": false}, "geo": null, "in_reply_to_user_id_str": null, "lang": "en", "created_at": "Fri Jul 12 08:38:00 +0000 2013", "in_reply_to_status_id_str": null, "place": null}, {"contributors": null, "truncated": false, "text": "Storytelling and Swag http://t.co/ZtvkHZyNaS", "in_reply_to_status_id": null, "id": 355381481885011970, "favorite_count": 0, "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>", "retweeted": false, "coordinates": null, "entities": {"symbols": [], "user_mentions": [], "hashtags": [], "urls": [{"url": "http://t.co/ZtvkHZyNaS", "indices": [22, 44], "expanded_url": "http://bit.ly/1danQNk", "display_url": "bit.ly/1danQNk"}]}, "in_reply_to_screen_name": null, "id_str": "355381481885011970", "retweet_count": 1, "in_reply_to_user_id": null, "favorited": false, "user": {"follow_request_sent": false, "profile_use_background_image": false, "default_profile_image": false, "id": 28307354, "verified": false, "profile_text_color": "634047", "profile_image_url_https": "https://si0.twimg.com/profile_images/3763348131/1832bda681f47ddfe393c4f0c7802528_normal.jpeg", "profile_sidebar_fill_color": "E3E2DE", "entities": {"url": {"urls": [{"url": "http://t.co/34mHU6UwTT", "indices": [0, 22], "expanded_url": "http://mariposaagency.com", "display_url": "mariposaagency.com"}]}, "description": {"urls": []}}, "followers_count": 480, "profile_sidebar_border_color": "D3D2CF", "id_str": "28307354", "profile_background_color": "EDECE9", "listed_count": 19, "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/155012792/trumpets.jpg", "utc_offset": -28800, "statuses_count": 1867, "description": "Mozillian. Community Builder. Mariposa Agency.\r\n\r\nLove People, Cars, Technology, The Web & Pets.", "friends_count": 534, "location": "Hyderabd,INDIA.", "profile_link_color": "088253", "profile_image_url": "http://a0.twimg.com/profile_images/3763348131/1832bda681f47ddfe393c4f0c7802528_normal.jpeg", "following": null, "geo_enabled": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/28307354/1370532547", "profile_background_image_url": "http://a0.twimg.com/profile_background_images/155012792/trumpets.jpg", "screen_name": "vineelreddy", "lang": "en", "profile_background_tile": false, "favourites_count": 186, "name": "Vineel Reddy Pindi", "notifications": null, "url": "http://t.co/34mHU6UwTT", "created_at": "Thu Apr 02 09:05:32 +0000 2009", "contributors_enabled": false, "time_zone": "Pacific Time (US & Canada)", "protected": false, "default_profile": false, "is_translator": false}, "geo": null, "in_reply_to_user_id_str": null, "possibly_sensitive": false, "lang": "en", "created_at": "Thu Jul 11 17:42:02 +0000 2013", "in_reply_to_status_id_str": null, "place": null}, {"contributors": null, "truncated": false, "text": "@arnav__ Hey it was a few years back photo :)", "in_reply_to_status_id": 355207704849035267, "id": 355348875135037440, "favorite_count": 0, "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>", "retweeted": false, "coordinates": null, "entities": {"symbols": [], "user_mentions": [{"id": 192879902, "indices": [0, 8], "id_str": "192879902", "screen_name": "arnav__", "name": "Arnav Sonara"}], "hashtags": [], "urls": []}, "in_reply_to_screen_name": "arnav__", "id_str": "355348875135037440", "retweet_count": 0, "in_reply_to_user_id": 192879902, "favorited": false, "user": {"follow_request_sent": false, "profile_use_background_image": false, "default_profile_image": false, "id": 28307354, "verified": false, "profile_text_color": "634047", "profile_image_url_https": "https://si0.twimg.com/profile_images/3763348131/1832bda681f47ddfe393c4f0c7802528_normal.jpeg", "profile_sidebar_fill_color": "E3E2DE", "entities": {"url": {"urls": [{"url": "http://t.co/34mHU6UwTT", "indices": [0, 22], "expanded_url": "http://mariposaagency.com", "display_url": "mariposaagency.com"}]}, "description": {"urls": []}}, "followers_count": 480, "profile_sidebar_border_color": "D3D2CF", "id_str": "28307354", "profile_background_color": "EDECE9", "listed_count": 19, "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/155012792/trumpets.jpg", "utc_offset": -28800, "statuses_count": 1867, "description": "Mozillian. Community Builder. Mariposa Agency.\r\n\r\nLove People, Cars, Technology, The Web & Pets.", "friends_count": 534, "location": "Hyderabd,INDIA.", "profile_link_color": "088253", "profile_image_url": "http://a0.twimg.com/profile_images/3763348131/1832bda681f47ddfe393c4f0c7802528_normal.jpeg", "following": null, "geo_enabled": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/28307354/1370532547", "profile_background_image_url": "http://a0.twimg.com/profile_background_images/155012792/trumpets.jpg", "screen_name": "vineelreddy", "lang": "en", "profile_background_tile": false, "favourites_count": 186, "name": "Vineel Reddy Pindi", "notifications": null, "url": "http://t.co/34mHU6UwTT", "created_at": "Thu Apr 02 09:05:32 +0000 2009", "contributors_enabled": false, "time_zone": "Pacific Time (US & Canada)", "protected": false, "default_profile": false, "is_translator": false}, "geo": null, "in_reply_to_user_id_str": "192879902", "lang": "en", "created_at": "Thu Jul 11 15:32:28 +0000 2013", "in_reply_to_status_id_str": "355207704849035267", "place": null}, {"contributors": null, "truncated": false, "text": "@juliechoi Thank you. Super excited for my first Y! Hack, you will see a lot of pics from me.", "in_reply_to_status_id": 355348123780001792, "id": 355348758118137856, "favorite_count": 0, "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>", "retweeted": false, "coordinates": null, "entities": {"symbols": [], "user_mentions": [{"id": 13960312, "indices": [0, 10], "id_str": "13960312", "screen_name": "juliechoi", "name": "Julie Shin Choi "}], "hashtags": [], "urls": []}, "in_reply_to_screen_name": "juliechoi", "id_str": "355348758118137856", "retweet_count": 0, "in_reply_to_user_id": 13960312, "favorited": false, "user": {"follow_request_sent": false, "profile_use_background_image": false, "default_profile_image": false, "id": 28307354, "verified": false, "profile_text_color": "634047", "profile_image_url_https": "https://si0.twimg.com/profile_images/3763348131/1832bda681f47ddfe393c4f0c7802528_normal.jpeg", "profile_sidebar_fill_color": "E3E2DE", "entities": {"url": {"urls": [{"url": "http://t.co/34mHU6UwTT", "indices": [0, 22], "expanded_url": "http://mariposaagency.com", "display_url": "mariposaagency.com"}]}, "description": {"urls": []}}, "followers_count": 480, "profile_sidebar_border_color": "D3D2CF", "id_str": "28307354", "profile_background_color": "EDECE9", "listed_count": 19, "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/155012792/trumpets.jpg", "utc_offset": -28800, "statuses_count": 1867, "description": "Mozillian. Community Builder. Mariposa Agency.\r\n\r\nLove People, Cars, Technology, The Web & Pets.", "friends_count": 534, "location": "Hyderabd,INDIA.", "profile_link_color": "088253", "profile_image_url": "http://a0.twimg.com/profile_images/3763348131/1832bda681f47ddfe393c4f0c7802528_normal.jpeg", "following": null, "geo_enabled": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/28307354/1370532547", "profile_background_image_url": "http://a0.twimg.com/profile_background_images/155012792/trumpets.jpg", "screen_name": "vineelreddy", "lang": "en", "profile_background_tile": false, "favourites_count": 186, "name": "Vineel Reddy Pindi", "notifications": null, "url": "http://t.co/34mHU6UwTT", "created_at": "Thu Apr 02 09:05:32 +0000 2009", "contributors_enabled": false, "time_zone": "Pacific Time (US & Canada)", "protected": false, "default_profile": false, "is_translator": false}, "geo": null, "in_reply_to_user_id_str": "13960312", "lang": "en", "created_at": "Thu Jul 11 15:32:00 +0000 2013", "in_reply_to_status_id_str": "355348123780001792", "place": null}, {"contributors": null, "truncated": false, "text": "[Ad Video] \"Worth the wait, wasn't it?\" http://t.co/XCEJ9xnBXE #AndyMurray #Wimbledon", "in_reply_to_status_id": null, "id": 354238771383910403, "favorite_count": 0, "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>", "retweeted": false, "coordinates": null, "entities": {"symbols": [], "user_mentions": [], "hashtags": [{"indices": [63, 74], "text": "AndyMurray"}, {"indices": [75, 85], "text": "Wimbledon"}], "urls": [{"url": "http://t.co/XCEJ9xnBXE", "indices": [40, 62], "expanded_url": "http://www.adweek.com/adfreak/bbh-finally-gets-add-storybook-ending-its-wimbledon-ad-robinsons-151035", "display_url": "adweek.com/adfreak/bbh-fi\u2026"}]}, "in_reply_to_screen_name": null, "id_str": "354238771383910403", "retweet_count": 0, "in_reply_to_user_id": null, "favorited": false, "user": {"follow_request_sent": false, "profile_use_background_image": false, "default_profile_image": false, "id": 28307354, "verified": false, "profile_text_color": "634047", "profile_image_url_https": "https://si0.twimg.com/profile_images/3763348131/1832bda681f47ddfe393c4f0c7802528_normal.jpeg", "profile_sidebar_fill_color": "E3E2DE", "entities": {"url": {"urls": [{"url": "http://t.co/34mHU6UwTT", "indices": [0, 22], "expanded_url": "http://mariposaagency.com", "display_url": "mariposaagency.com"}]}, "description": {"urls": []}}, "followers_count": 480, "profile_sidebar_border_color": "D3D2CF", "id_str": "28307354", "profile_background_color": "EDECE9", "listed_count": 19, "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/155012792/trumpets.jpg", "utc_offset": -28800, "statuses_count": 1867, "description": "Mozillian. Community Builder. Mariposa Agency.\r\n\r\nLove People, Cars, Technology, The Web & Pets.", "friends_count": 534, "location": "Hyderabd,INDIA.", "profile_link_color": "088253", "profile_image_url": "http://a0.twimg.com/profile_images/3763348131/1832bda681f47ddfe393c4f0c7802528_normal.jpeg", "following": null, "geo_enabled": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/28307354/1370532547", "profile_background_image_url": "http://a0.twimg.com/profile_background_images/155012792/trumpets.jpg", "screen_name": "vineelreddy", "lang": "en", "profile_background_tile": false, "favourites_count": 186, "name": "Vineel Reddy Pindi", "notifications": null, "url": "http://t.co/34mHU6UwTT", "created_at": "Thu Apr 02 09:05:32 +0000 2009", "contributors_enabled": false, "time_zone": "Pacific Time (US & Canada)", "protected": false, "default_profile": false, "is_translator": false}, "geo": null, "in_reply_to_user_id_str": null, "possibly_sensitive": false, "lang": "en", "created_at": "Mon Jul 08 14:01:19 +0000 2013", "in_reply_to_status_id_str": null, "place": null}, {"contributors": null, "truncated": false, "text": "@yeskarthik @madhuvishy @Abhinandan74 @realslimkarthik see you all soon again!", "in_reply_to_status_id": 353923590149767169, "id": 354214560359645184, "favorite_count": 0, "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>", "retweeted": false, "coordinates": null, "entities": {"symbols": [], "user_mentions": [{"id": 16849553, "indices": [0, 11], "id_str": "16849553", "screen_name": "yeskarthik", "name": "Karthik Subramanian"}, {"id": 154058629, "indices": [12, 23], "id_str": "154058629", "screen_name": "madhuvishy", "name": "Madhumitha V"}, {"id": 435981423, "indices": [24, 37], "id_str": "435981423", "screen_name": "Abhinandan74", "name": "Abhinandan"}, {"id": 478809538, "indices": [38, 54], "id_str": "478809538", "screen_name": "realslimkarthik", "name": "Karthik Hariharan"}], "hashtags": [], "urls": []}, "in_reply_to_screen_name": "yeskarthik", "id_str": "354214560359645184", "retweet_count": 0, "in_reply_to_user_id": 16849553, "favorited": false, "user": {"follow_request_sent": false, "profile_use_background_image": false, "default_profile_image": false, "id": 28307354, "verified": false, "profile_text_color": "634047", "profile_image_url_https": "https://si0.twimg.com/profile_images/3763348131/1832bda681f47ddfe393c4f0c7802528_normal.jpeg", "profile_sidebar_fill_color": "E3E2DE", "entities": {"url": {"urls": [{"url": "http://t.co/34mHU6UwTT", "indices": [0, 22], "expanded_url": "http://mariposaagency.com", "display_url": "mariposaagency.com"}]}, "description": {"urls": []}}, "followers_count": 480, "profile_sidebar_border_color": "D3D2CF", "id_str": "28307354", "profile_background_color": "EDECE9", "listed_count": 19, "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/155012792/trumpets.jpg", "utc_offset": -28800, "statuses_count": 1867, "description": "Mozillian. Community Builder. Mariposa Agency.\r\n\r\nLove People, Cars, Technology, The Web & Pets.", "friends_count": 534, "location": "Hyderabd,INDIA.", "profile_link_color": "088253", "profile_image_url": "http://a0.twimg.com/profile_images/3763348131/1832bda681f47ddfe393c4f0c7802528_normal.jpeg", "following": null, "geo_enabled": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/28307354/1370532547", "profile_background_image_url": "http://a0.twimg.com/profile_background_images/155012792/trumpets.jpg", "screen_name": "vineelreddy", "lang": "en", "profile_background_tile": false, "favourites_count": 186, "name": "Vineel Reddy Pindi", "notifications": null, "url": "http://t.co/34mHU6UwTT", "created_at": "Thu Apr 02 09:05:32 +0000 2009", "contributors_enabled": false, "time_zone": "Pacific Time (US & Canada)", "protected": false, "default_profile": false, "is_translator": false}, "geo": null, "in_reply_to_user_id_str": "16849553", "lang": "en", "created_at": "Mon Jul 08 12:25:06 +0000 2013", "in_reply_to_status_id_str": "353923590149767169", "place": null}, {"contributors": null, "truncated": false, "text": "@Sayak_Sarkar is now S4. Yay! @GalaxyK @gauthamrajela @sankha93 @sawrubh @Debloper @anknite", "in_reply_to_status_id": null, "id": 354132667685543937, "favorite_count": 0, "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>", "retweeted": false, "coordinates": null, "entities": {"symbols": [], "user_mentions": [{"id": 128826719, "indices": [0, 13], "id_str": "128826719", "screen_name": "Sayak_Sarkar", "name": "Sayak Sarkar"}, {"id": 15188100, "indices": [30, 38], "id_str": "15188100", "screen_name": "GalaxyK", "name": "Galaxy Kadiyala"}, {"id": 434789126, "indices": [54, 63], "id_str": "434789126", "screen_name": "sankha93", "name": "Sankha Narayan Guria"}, {"id": 297867276, "indices": [64, 72], "id_str": "297867276", "screen_name": "sawrubh", "name": "Saurabh Anand"}, {"id": 40773719, "indices": [73, 82], "id_str": "40773719", "screen_name": "Debloper", "name": "Soumya Deb"}, {"id": 470343010, "indices": [83, 91], "id_str": "470343010", "screen_name": "anknite", "name": "Ankit Gadgil \u0905\u0902\u0915\u093f\u0924"}], "hashtags": [], "urls": []}, "in_reply_to_screen_name": "Sayak_Sarkar", "id_str": "354132667685543937", "retweet_count": 0, "in_reply_to_user_id": 128826719, "favorited": false, "user": {"follow_request_sent": false, "profile_use_background_image": false, "default_profile_image": false, "id": 28307354, "verified": false, "profile_text_color": "634047", "profile_image_url_https": "https://si0.twimg.com/profile_images/3763348131/1832bda681f47ddfe393c4f0c7802528_normal.jpeg", "profile_sidebar_fill_color": "E3E2DE", "entities": {"url": {"urls": [{"url": "http://t.co/34mHU6UwTT", "indices": [0, 22], "expanded_url": "http://mariposaagency.com", "display_url": "mariposaagency.com"}]}, "description": {"urls": []}}, "followers_count": 480, "profile_sidebar_border_color": "D3D2CF", "id_str": "28307354", "profile_background_color": "EDECE9", "listed_count": 19, "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/155012792/trumpets.jpg", "utc_offset": -28800, "statuses_count": 1867, "description": "Mozillian. Community Builder. Mariposa Agency.\r\n\r\nLove People, Cars, Technology, The Web & Pets.", "friends_count": 534, "location": "Hyderabd,INDIA.", "profile_link_color": "088253", "profile_image_url": "http://a0.twimg.com/profile_images/3763348131/1832bda681f47ddfe393c4f0c7802528_normal.jpeg", "following": null, "geo_enabled": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/28307354/1370532547", "profile_background_image_url": "http://a0.twimg.com/profile_background_images/155012792/trumpets.jpg", "screen_name": "vineelreddy", "lang": "en", "profile_background_tile": false, "favourites_count": 186, "name": "Vineel Reddy Pindi", "notifications": null, "url": "http://t.co/34mHU6UwTT", "created_at": "Thu Apr 02 09:05:32 +0000 2009", "contributors_enabled": false, "time_zone": "Pacific Time (US & Canada)", "protected": false, "default_profile": false, "is_translator": false}, "geo": null, "in_reply_to_user_id_str": "128826719", "lang": "en", "created_at": "Mon Jul 08 06:59:42 +0000 2013", "in_reply_to_status_id_str": null, "place": null}, {"contributors": null, "truncated": false, "text": "RT @gauthamrajela: @vineelreddy Wow ! This is Amazing - started trending in Gwalior as well", "in_reply_to_status_id": null, "id": 353840999996473344, "favorite_count": 0, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweeted": false, "coordinates": null, "entities": {"symbols": [], "user_mentions": [{"id": 28307354, "indices": [19, 31], "id_str": "28307354", "screen_name": "vineelreddy", "name": "Vineel Reddy Pindi"}], "hashtags": [], "urls": []}, "in_reply_to_screen_name": null, "id_str": "353840999996473344", "retweet_count": 1, "in_reply_to_user_id": null, "favorited": false, "retweeted_status": {"contributors": null, "truncated": false, "text": "@vineelreddy Wow ! This is Amazing - started trending in Gwalior as well", "in_reply_to_status_id": null, "id": 353838333627080705, "favorite_count": 1, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweeted": false, "coordinates": {"type": "Point", "coordinates": [78.1619578, 26.2052847]}, "entities": {"symbols": [], "user_mentions": [{"id": 28307354, "indices": [0, 12], "id_str": "28307354", "screen_name": "vineelreddy", "name": "Vineel Reddy Pindi"}], "hashtags": [], "urls": []}, "in_reply_to_screen_name": "vineelreddy", "id_str": "353838333627080705", "retweet_count": 1, "in_reply_to_user_id": 28307354, "favorited": false, "user": {"follow_request_sent": false, "profile_use_background_image": true, "default_profile_image": false, "id": 222405646, "verified": false, "profile_text_color": "333333", "profile_image_url_https": "https://si0.twimg.com/profile_images/1954615878/MoNj1F2a_normal", "profile_sidebar_fill_color": "DDEEF6", "entities": {"url": {"urls": [{"url": "http://t.co/7o7ZOo6ekc", "indices": [0, 22], "expanded_url": "http://www.ant2android.com", "display_url": "ant2android.com"}]}, "description": {"urls": []}}, "followers_count": 221, "profile_sidebar_border_color": "C0DEED", "id_str": "222405646", "profile_background_color": "C0DEED", "listed_count": 2, "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png", "utc_offset": 19800, "statuses_count": 1663, "description": "A young Technical Aspirant with very big dreams to achieve..Passionate for Open Source, A proud Mozillian, Mozilla Campus Rep @IRTT,Mozilla Rep (ReMo)", "friends_count": 261, "location": "India", "profile_link_color": "0084B4", "profile_image_url": "http://a0.twimg.com/profile_images/1954615878/MoNj1F2a_normal", "following": null, "geo_enabled": true, "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png", "screen_name": "g4gauti", "lang": "en", "profile_background_tile": false, "favourites_count": 112, "name": "Gauthamraj Elango", "notifications": null, "url": "http://t.co/7o7ZOo6ekc", "created_at": "Fri Dec 03 09:50:20 +0000 2010", "contributors_enabled": false, "time_zone": "Chennai", "protected": false, "default_profile": true, "is_translator": false}, "geo": {"type": "Point", "coordinates": [26.2052847, 78.1619578]}, "in_reply_to_user_id_str": "28307354", "lang": "en", "created_at": "Sun Jul 07 11:30:07 +0000 2013", "in_reply_to_status_id_str": null, "place": null}, "user": {"follow_request_sent": false, "profile_use_background_image": false, "default_profile_image": false, "id": 28307354, "verified": false, "profile_text_color": "634047", "profile_image_url_https": "https://si0.twimg.com/profile_images/3763348131/1832bda681f47ddfe393c4f0c7802528_normal.jpeg", "profile_sidebar_fill_color": "E3E2DE", "entities": {"url": {"urls": [{"url": "http://t.co/34mHU6UwTT", "indices": [0, 22], "expanded_url": "http://mariposaagency.com", "display_url": "mariposaagency.com"}]}, "description": {"urls": []}}, "followers_count": 480, "profile_sidebar_border_color": "D3D2CF", "id_str": "28307354", "profile_background_color": "EDECE9", "listed_count": 19, "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/155012792/trumpets.jpg", "utc_offset": -28800, "statuses_count": 1867, "description": "Mozillian. Community Builder. Mariposa Agency.\r\n\r\nLove People, Cars, Technology, The Web & Pets.", "friends_count": 534, "location": "Hyderabd,INDIA.", "profile_link_color": "088253", "profile_image_url": "http://a0.twimg.com/profile_images/3763348131/1832bda681f47ddfe393c4f0c7802528_normal.jpeg", "following": null, "geo_enabled": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/28307354/1370532547", "profile_background_image_url": "http://a0.twimg.com/profile_background_images/155012792/trumpets.jpg", "screen_name": "vineelreddy", "lang": "en", "profile_background_tile": false, "favourites_count": 186, "name": "Vineel Reddy Pindi", "notifications": null, "url": "http://t.co/34mHU6UwTT", "created_at": "Thu Apr 02 09:05:32 +0000 2009", "contributors_enabled": false, "time_zone": "Pacific Time (US & Canada)", "protected": false, "default_profile": false, "is_translator": false}, "geo": null, "in_reply_to_user_id_str": null, "lang": "en", "created_at": "Sun Jul 07 11:40:43 +0000 2013", "in_reply_to_status_id_str": null, "place": null}, {"contributors": null, "truncated": false, "text": "RT @MozillaIN: Around 100 Mozilla Contributors from India are invited to participate at @MozillaSummit 2013 happening at California. @firef\u2026", "in_reply_to_status_id": null, "id": 353791616353447936, "favorite_count": 0, "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>", "retweeted": false, "coordinates": null, "entities": {"symbols": [], "user_mentions": [{"id": 153853236, "indices": [3, 13], "id_str": "153853236", "screen_name": "MozillaIN", "name": "Mozilla India"}, {"id": 146441302, "indices": [88, 102], "id_str": "146441302", "screen_name": "MozillaSummit", "name": "Mozilla Summit"}, {"id": 23320568, "indices": [133, 139], "id_str": "23320568", "screen_name": "FireF", "name": "JasonH"}], "hashtags": [], "urls": []}, "in_reply_to_screen_name": null, "id_str": "353791616353447936", "retweet_count": 13, "in_reply_to_user_id": null, "favorited": false, "retweeted_status": {"contributors": null, "truncated": false, "text": "Around 100 Mozilla Contributors from India are invited to participate at @MozillaSummit 2013 happening at California. @firefox @mozillareps", "in_reply_to_status_id": null, "id": 353791585357533185, "favorite_count": 4, "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>", "retweeted": false, "coordinates": null, "entities": {"symbols": [], "user_mentions": [{"id": 146441302, "indices": [73, 87], "id_str": "146441302", "screen_name": "MozillaSummit", "name": "Mozilla Summit"}, {"id": 2142731, "indices": [118, 126], "id_str": "2142731", "screen_name": "firefox", "name": "Firefox"}, {"id": 371542569, "indices": [127, 139], "id_str": "371542569", "screen_name": "mozillareps", "name": "Mozilla Reps"}], "hashtags": [], "urls": []}, "in_reply_to_screen_name": null, "id_str": "353791585357533185", "retweet_count": 13, "in_reply_to_user_id": null, "favorited": false, "user": {"follow_request_sent": false, "profile_use_background_image": true, "default_profile_image": false, "id": 153853236, "verified": false, "profile_text_color": "333333", "profile_image_url_https": "https://si0.twimg.com/profile_images/1359787640/Mozilla_India_normal.jpg", "profile_sidebar_fill_color": "DDEEF6", "entities": {"url": {"urls": [{"url": "http://t.co/KriJbQRUni", "indices": [0, 22], "expanded_url": "http://mozillaindia.org/", "display_url": "mozillaindia.org"}]}, "description": {"urls": [{"url": "http://t.co/B8mOIRLD", "indices": [36, 56], "expanded_url": "http://mozillaindia.org/", "display_url": "mozillaindia.org"}]}}, "followers_count": 469, "profile_sidebar_border_color": "C0DEED", "id_str": "153853236", "profile_background_color": "C0DEED", "listed_count": 10, "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/126852856/twitter_mozsunburst_backgroundimage.jpg", "utc_offset": -28800, "statuses_count": 928, "description": "People, Technology & The Open Web!\r\nhttp://t.co/B8mOIRLD", "friends_count": 185, "location": "INDIA", "profile_link_color": "0084B4", "profile_image_url": "http://a0.twimg.com/profile_images/1359787640/Mozilla_India_normal.jpg", "following": null, "geo_enabled": true, "profile_background_image_url": "http://a0.twimg.com/profile_background_images/126852856/twitter_mozsunburst_backgroundimage.jpg", "screen_name": "MozillaIN", "lang": "en", "profile_background_tile": false, "favourites_count": 22, "name": "Mozilla India", "notifications": null, "url": "http://t.co/KriJbQRUni", "created_at": "Wed Jun 09 18:22:56 +0000 2010", "contributors_enabled": false, "time_zone": "Pacific Time (US & Canada)", "protected": false, "default_profile": false, "is_translator": false}, "geo": null, "in_reply_to_user_id_str": null, "lang": "en", "created_at": "Sun Jul 07 08:24:21 +0000 2013", "in_reply_to_status_id_str": null, "place": null}, "user": {"follow_request_sent": false, "profile_use_background_image": false, "default_profile_image": false, "id": 28307354, "verified": false, "profile_text_color": "634047", "profile_image_url_https": "https://si0.twimg.com/profile_images/3763348131/1832bda681f47ddfe393c4f0c7802528_normal.jpeg", "profile_sidebar_fill_color": "E3E2DE", "entities": {"url": {"urls": [{"url": "http://t.co/34mHU6UwTT", "indices": [0, 22], "expanded_url": "http://mariposaagency.com", "display_url": "mariposaagency.com"}]}, "description": {"urls": []}}, "followers_count": 480, "profile_sidebar_border_color": "D3D2CF", "id_str": "28307354", "profile_background_color": "EDECE9", "listed_count": 19, "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/155012792/trumpets.jpg", "utc_offset": -28800, "statuses_count": 1867, "description": "Mozillian. Community Builder. Mariposa Agency.\r\n\r\nLove People, Cars, Technology, The Web & Pets.", "friends_count": 534, "location": "Hyderabd,INDIA.", "profile_link_color": "088253", "profile_image_url": "http://a0.twimg.com/profile_images/3763348131/1832bda681f47ddfe393c4f0c7802528_normal.jpeg", "following": null, "geo_enabled": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/28307354/1370532547", "profile_background_image_url": "http://a0.twimg.com/profile_background_images/155012792/trumpets.jpg", "screen_name": "vineelreddy", "lang": "en", "profile_background_tile": false, "favourites_count": 186, "name": "Vineel Reddy Pindi", "notifications": null, "url": "http://t.co/34mHU6UwTT", "created_at": "Thu Apr 02 09:05:32 +0000 2009", "contributors_enabled": false, "time_zone": "Pacific Time (US & Canada)", "protected": false, "default_profile": false, "is_translator": false}, "geo": null, "in_reply_to_user_id_str": null, "lang": "en", "created_at": "Sun Jul 07 08:24:29 +0000 2013", "in_reply_to_status_id_str": null, "place": null}, {"contributors": null, "truncated": false, "text": "RT @BoingBoing: As the world marks the Dalai Lama's 78th birthday Sunday, a grim milestone: 120 Tibetans have burned themselves alive http:\u2026", "in_reply_to_status_id": null, "id": 353617729393147905, "favorite_count": 0, "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>", "retweeted": false, "coordinates": null, "entities": {"symbols": [], "user_mentions": [{"id": 5971922, "indices": [3, 14], "id_str": "5971922", "screen_name": "BoingBoing", "name": "Boing Boing"}], "hashtags": [], "urls": []}, "in_reply_to_screen_name": null, "id_str": "353617729393147905", "retweet_count": 14, "in_reply_to_user_id": null, "favorited": false, "retweeted_status": {"contributors": null, "truncated": false, "text": "As the world marks the Dalai Lama's 78th birthday Sunday, a grim milestone: 120 Tibetans have burned themselves alive http://t.co/WG7dnYrx2G", "in_reply_to_status_id": null, "id": 353578636697288705, "favorite_count": 2, "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>", "retweeted": false, "coordinates": null, "entities": {"symbols": [], "user_mentions": [], "hashtags": [], "urls": [{"url": "http://t.co/WG7dnYrx2G", "indices": [118, 140], "expanded_url": "http://ow.ly/mIdvl", "display_url": "ow.ly/mIdvl"}]}, "in_reply_to_screen_name": null, "id_str": "353578636697288705", "retweet_count": 14, "in_reply_to_user_id": null, "favorited": false, "user": {"follow_request_sent": false, "profile_use_background_image": true, "default_profile_image": false, "id": 5971922, "verified": true, "profile_text_color": "000000", "profile_image_url_https": "https://si0.twimg.com/profile_images/3096579761/a3c23a9715fe1add47f17e2ae101f53f_normal.png", "profile_sidebar_fill_color": "DCDCDC", "entities": {"url": {"urls": [{"url": "http://t.co/Ys32VXKSjJ", "indices": [0, 22], "expanded_url": "http://www.boingboing.net", "display_url": "boingboing.net"}]}, "description": {"urls": [{"url": "http://t.co/tWNmNj8o", "indices": [9, 29], "expanded_url": "http://BoingBoing.net", "display_url": "BoingBoing.net"}]}}, "followers_count": 167694, "profile_sidebar_border_color": "000000", "id_str": "5971922", "profile_background_color": "CC0000", "listed_count": 11289, "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/761478033/3c86af1b3f8cf7470bb812a5cd296840.gif", "utc_offset": -14400, "statuses_count": 55976, "description": "Official http://t.co/tWNmNj8o feed. Links to our blog posts, videos, and features, plus RTs + extras from our editors.", "friends_count": 51, "location": "Directory of Wonderful Things", "profile_link_color": "CC0000", "profile_image_url": "http://a0.twimg.com/profile_images/3096579761/a3c23a9715fe1add47f17e2ae101f53f_normal.png", "following": null, "geo_enabled": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/5971922/1357950052", "profile_background_image_url": "http://a0.twimg.com/profile_background_images/761478033/3c86af1b3f8cf7470bb812a5cd296840.gif", "screen_name": "BoingBoing", "lang": "en", "profile_background_tile": false, "favourites_count": 119, "name": "Boing Boing", "notifications": null, "url": "http://t.co/Ys32VXKSjJ", "created_at": "Fri May 11 19:14:39 +0000 2007", "contributors_enabled": false, "time_zone": "Atlantic Time (Canada)", "protected": false, "default_profile": false, "is_translator": false}, "geo": null, "in_reply_to_user_id_str": null, "possibly_sensitive": false, "lang": "en", "created_at": "Sat Jul 06 18:18:10 +0000 2013", "in_reply_to_status_id_str": null, "place": null}, "user": {"follow_request_sent": false, "profile_use_background_image": false, "default_profile_image": false, "id": 28307354, "verified": false, "profile_text_color": "634047", "profile_image_url_https": "https://si0.twimg.com/profile_images/3763348131/1832bda681f47ddfe393c4f0c7802528_normal.jpeg", "profile_sidebar_fill_color": "E3E2DE", "entities": {"url": {"urls": [{"url": "http://t.co/34mHU6UwTT", "indices": [0, 22], "expanded_url": "http://mariposaagency.com", "display_url": "mariposaagency.com"}]}, "description": {"urls": []}}, "followers_count": 480, "profile_sidebar_border_color": "D3D2CF", "id_str": "28307354", "profile_background_color": "EDECE9", "listed_count": 19, "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/155012792/trumpets.jpg", "utc_offset": -28800, "statuses_count": 1867, "description": "Mozillian. Community Builder. Mariposa Agency.\r\n\r\nLove People, Cars, Technology, The Web & Pets.", "friends_count": 534, "location": "Hyderabd,INDIA.", "profile_link_color": "088253", "profile_image_url": "http://a0.twimg.com/profile_images/3763348131/1832bda681f47ddfe393c4f0c7802528_normal.jpeg", "following": null, "geo_enabled": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/28307354/1370532547", "profile_background_image_url": "http://a0.twimg.com/profile_background_images/155012792/trumpets.jpg", "screen_name": "vineelreddy", "lang": "en", "profile_background_tile": false, "favourites_count": 186, "name": "Vineel Reddy Pindi", "notifications": null, "url": "http://t.co/34mHU6UwTT", "created_at": "Thu Apr 02 09:05:32 +0000 2009", "contributors_enabled": false, "time_zone": "Pacific Time (US & Canada)", "protected": false, "default_profile": false, "is_translator": false}, "geo": null, "in_reply_to_user_id_str": null, "lang": "en", "created_at": "Sat Jul 06 20:53:31 +0000 2013", "in_reply_to_status_id_str": null, "place": null}, {"contributors": null, "truncated": false, "text": "@ananthulasrikar have good time :-) Sorry, did not join this time.", "in_reply_to_status_id": 353507855418138625, "id": 353518226354864128, "favorite_count": 0, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "retweeted": false, "coordinates": null, "entities": {"symbols": [], "user_mentions": [{"id": 95966563, "indices": [0, 16], "id_str": "95966563", "screen_name": "ananthulasrikar", "name": "Srikar"}], "hashtags": [], "urls": []}, "in_reply_to_screen_name": "ananthulasrikar", "id_str": "353518226354864128", "retweet_count": 0, "in_reply_to_user_id": 95966563, "favorited": false, "user": {"follow_request_sent": false, "profile_use_background_image": false, "default_profile_image": false, "id": 28307354, "verified": false, "profile_text_color": "634047", "profile_image_url_https": "https://si0.twimg.com/profile_images/3763348131/1832bda681f47ddfe393c4f0c7802528_normal.jpeg", "profile_sidebar_fill_color": "E3E2DE", "entities": {"url": {"urls": [{"url": "http://t.co/34mHU6UwTT", "indices": [0, 22], "expanded_url": "http://mariposaagency.com", "display_url": "mariposaagency.com"}]}, "description": {"urls": []}}, "followers_count": 480, "profile_sidebar_border_color": "D3D2CF", "id_str": "28307354", "profile_background_color": "EDECE9", "listed_count": 19, "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/155012792/trumpets.jpg", "utc_offset": -28800, "statuses_count": 1867, "description": "Mozillian. Community Builder. Mariposa Agency.\r\n\r\nLove People, Cars, Technology, The Web & Pets.", "friends_count": 534, "location": "Hyderabd,INDIA.", "profile_link_color": "088253", "profile_image_url": "http://a0.twimg.com/profile_images/3763348131/1832bda681f47ddfe393c4f0c7802528_normal.jpeg", "following": null, "geo_enabled": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/28307354/1370532547", "profile_background_image_url": "http://a0.twimg.com/profile_background_images/155012792/trumpets.jpg", "screen_name": "vineelreddy", "lang": "en", "profile_background_tile": false, "favourites_count": 186, "name": "Vineel Reddy Pindi", "notifications": null, "url": "http://t.co/34mHU6UwTT", "created_at": "Thu Apr 02 09:05:32 +0000 2009", "contributors_enabled": false, "time_zone": "Pacific Time (US & Canada)", "protected": false, "default_profile": false, "is_translator": false}, "geo": null, "in_reply_to_user_id_str": "95966563", "lang": "en", "created_at": "Sat Jul 06 14:18:07 +0000 2013", "in_reply_to_status_id_str": "353507855418138625", "place": null}, {"contributors": null, "truncated": false, "text": "RT @AartiMadan: Hahhaha good one! RT @TheMehulPatel: No person ever injured his or her eyesight looking on the bright side of things.", "in_reply_to_status_id": null, "id": 352732856876941312, "favorite_count": 0, "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>", "retweeted": false, "coordinates": null, "entities": {"symbols": [], "user_mentions": [{"id": 84286843, "indices": [3, 14], "id_str": "84286843", "screen_name": "AartiMadan", "name": "Aarti Madan"}, {"id": 54525773, "indices": [37, 51], "id_str": "54525773", "screen_name": "TheMehulPatel", "name": "Mehul Patel"}], "hashtags": [], "urls": []}, "in_reply_to_screen_name": null, "id_str": "352732856876941312", "retweet_count": 3, "in_reply_to_user_id": null, "favorited": false, "retweeted_status": {"contributors": null, "truncated": false, "text": "Hahhaha good one! RT @TheMehulPatel: No person ever injured his or her eyesight looking on the bright side of things.", "in_reply_to_status_id": null, "id": 352731378930024449, "favorite_count": 0, "source": "<a href=\"http://ubersocial.com\" rel=\"nofollow\">UberSocial for BlackBerry</a>", "retweeted": false, "coordinates": null, "entities": {"symbols": [], "user_mentions": [{"id": 54525773, "indices": [21, 35], "id_str": "54525773", "screen_name": "TheMehulPatel", "name": "Mehul Patel"}], "hashtags": [], "urls": []}, "in_reply_to_screen_name": null, "id_str": "352731378930024449", "retweet_count": 3, "in_reply_to_user_id": null, "favorited": false, "user": {"follow_request_sent": false, "profile_use_background_image": true, "default_profile_image": false, "id": 84286843, "verified": false, "profile_text_color": "333333", "profile_image_url_https": "https://si0.twimg.com/profile_images/3713747201/4b147d7844d2ecf80d91af6ee6e447a4_normal.jpeg", "profile_sidebar_fill_color": "C0DFEC", "entities": {"url": {"urls": [{"url": "http://t.co/dt4iBdM8uI", "indices": [0, 22], "expanded_url": "http://www.pinterest.com/aartimadan/", "display_url": "pinterest.com/aartimadan/"}]}, "description": {"urls": []}}, "followers_count": 8125, "profile_sidebar_border_color": "A8C7F7", "id_str": "84286843", "profile_background_color": "022330", "listed_count": 147, "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/476713299/101894010288781513_t9314YTP_c.jpg", "utc_offset": 19800, "statuses_count": 48888, "description": "I stand up for myself & my beliefs.I stand up for those I love. I am outspoken, opinionated & determined. Everything I am or evr become,I Owe to my Angel MOTHER", "friends_count": 230, "location": "Mumbai", "profile_link_color": "0084B4", "profile_image_url": "http://a0.twimg.com/profile_images/3713747201/4b147d7844d2ecf80d91af6ee6e447a4_normal.jpeg", "following": null, "geo_enabled": false, "profile_background_image_url": "http://a0.twimg.com/profile_background_images/476713299/101894010288781513_t9314YTP_c.jpg", "screen_name": "AartiMadan", "lang": "en", "profile_background_tile": true, "favourites_count": 302, "name": "Aarti Madan", "notifications": null, "url": "http://t.co/dt4iBdM8uI", "created_at": "Thu Oct 22 09:45:24 +0000 2009", "contributors_enabled": false, "time_zone": "Mumbai", "protected": false, "default_profile": false, "is_translator": false}, "geo": null, "in_reply_to_user_id_str": null, "lang": "en", "created_at": "Thu Jul 04 10:11:28 +0000 2013", "in_reply_to_status_id_str": null, "place": null}, "user": {"follow_request_sent": false, "profile_use_background_image": false, "default_profile_image": false, "id": 28307354, "verified": false, "profile_text_color": "634047", "profile_image_url_https": "https://si0.twimg.com/profile_images/3763348131/1832bda681f47ddfe393c4f0c7802528_normal.jpeg", "profile_sidebar_fill_color": "E3E2DE", "entities": {"url": {"urls": [{"url": "http://t.co/34mHU6UwTT", "indices": [0, 22], "expanded_url": "http://mariposaagency.com", "display_url": "mariposaagency.com"}]}, "description": {"urls": []}}, "followers_count": 480, "profile_sidebar_border_color": "D3D2CF", "id_str": "28307354", "profile_background_color": "EDECE9", "listed_count": 19, "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/155012792/trumpets.jpg", "utc_offset": -28800, "statuses_count": 1867, "description": "Mozillian. Community Builder. Mariposa Agency.\r\n\r\nLove People, Cars, Technology, The Web & Pets.", "friends_count": 534, "location": "Hyderabd,INDIA.", "profile_link_color": "088253", "profile_image_url": "http://a0.twimg.com/profile_images/3763348131/1832bda681f47ddfe393c4f0c7802528_normal.jpeg", "following": null, "geo_enabled": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/28307354/1370532547", "profile_background_image_url": "http://a0.twimg.com/profile_background_images/155012792/trumpets.jpg", "screen_name": "vineelreddy", "lang": "en", "profile_background_tile": false, "favourites_count": 186, "name": "Vineel Reddy Pindi", "notifications": null, "url": "http://t.co/34mHU6UwTT", "created_at": "Thu Apr 02 09:05:32 +0000 2009", "contributors_enabled": false, "time_zone": "Pacific Time (US & Canada)", "protected": false, "default_profile": false, "is_translator": false}, "geo": null, "in_reply_to_user_id_str": null, "lang": "en", "created_at": "Thu Jul 04 10:17:21 +0000 2013", "in_reply_to_status_id_str": null, "place": null}]}, "suggestions": [], "actions": [], "facebook": {"photos": {"numResults": 0, "moods": [], "query": "vineel", "qtype": "photo", "suggestions": [], "type": "Facebook", "id": 522066115, "actions": [], "results": []}, "streams": {"numResults": 4, "moods": [], "query": "vineel", "qtype": "stream", "suggestions": [], "type": "Facebook", "id": 522066115, "actions": [], "results": [{"like_info": {"like_count": 5, "can_like": true, "user_likes": false}, "description": null, "with_tags": [], "updated_time": 1373730499, "comment_info": {"comment_count": 0, "can_comment": true, "comment_order": "chronological"}, "source_id": 522066115, "message": "What a day! RT @ydn: All pictures from Day 1 Hack India: Hyderabad can be found here:  http://t.co/QdY1Hc2HzZ #yahoohack", "type": 237, "share_count": 0}, {"like_info": {"like_count": 8, "can_like": true, "user_likes": false}, "description": null, "with_tags": [], "updated_time": 1373682885, "comment_info": {"comment_count": 0, "can_comment": true, "comment_order": "chronological"}, "source_id": 522066115, "message": "Good morning #Yahoohack Hyderabad ! http://t.co/HIaYHJaZ1D", "type": 237, "share_count": 0}, {"like_info": {"like_count": 4, "can_like": true, "user_likes": false}, "description": null, "with_tags": [], "updated_time": 1373655115, "comment_info": {"comment_count": 1, "can_comment": true, "comment_order": "chronological"}, "source_id": 522066115, "message": "1 day to go!! RT @ydn: Yahoo! Hack India: Hyderabad starts tomorrow at 8:00  Tune in here (@YDN) for live updates from Hyderabad!", "type": 237, "share_count": 0}, {"like_info": {"like_count": 1, "can_like": true, "user_likes": false}, "description": null, "with_tags": [], "updated_time": 1373564528, "comment_info": {"comment_count": 0, "can_comment": true, "comment_order": "chronological"}, "source_id": 522066115, "message": "Storytelling and Swag http://t.co/ZtvkHZyNaS", "type": 237, "share_count": 0}]}, "locations": {"numResults": 0, "moods": [], "query": "vineel", "qtype": "location_post", "suggestions": [], "type": "Facebook", "id": 522066115, "actions": [], "results": []}, "statuses": {"numResults": 4, "moods": [], "query": "vineel", "qtype": "status", "suggestions": [], "type": "Facebook", "id": 522066115, "actions": [], "results": [{"picture": "https://s-platform.ak.fbcdn.net/www/app_full_proxy.php?app=2231777543&v=1&size=z&cksum=de06becef9b9be9d1be296dafb21b64e&src=http%3A%2F%2Ffarm8.staticflickr.com%2F7305%2F9209647144_127c5ccc3e.jpg", "from": {"name": "Vineel Reddy Pindi", "id": "522066115"}, "name": "Hack India: Hyderabad 2013", "privacy": {"value": ""}, "actions": [{"link": "http://www.facebook.com/522066115/posts/10151421968376116", "name": "Comment"}, {"link": "http://www.facebook.com/522066115/posts/10151421968376116", "name": "Like"}, {"link": "https://twitter.com/vineelreddy?utm_source=fb&utm_medium=fb&utm_campaign=vineelreddy&utm_content=356077621030817794", "name": "@vineelreddy on Twitter"}], "updated_time": "2013-07-13T15:48:19+0000", "caption": "bit.ly", "application": {"namespace": "twitter", "name": "Twitter", "id": "2231777543"}, "link": "http://t.co/QdY1Hc2HzZ", "likes": {"count": 5, "data": [{"name": "Galaxy  Kadiyala", "id": "542327089"}, {"name": "Santosh Kesiraju", "id": "554078886"}, {"name": "Suresh Packiyarajah", "id": "701075874"}, {"name": "Swarnava Sengupta", "id": "1231114958"}]}, "created_time": "2013-07-13T15:48:19+0000", "message": "What a day! RT @ydn: All pictures from Day 1 Hack India: Hyderabad can be found here:  http://t.co/QdY1Hc2HzZ #yahoohack", "icon": "https://fbcdn-photos-c-a.akamaihd.net/hphotos-ak-prn1/851565_10151397911967544_632525583_n.png", "type": "link", "id": "522066115_10151421968376116", "status_type": "app_created_story", "description": "Sets let you organize your photos on Flickr. Explore the 407 photos in this set."}, {"picture": "https://s-platform.ak.fbcdn.net/www/app_full_proxy.php?app=2231777543&v=1&size=z&cksum=aa29965b5a0f365b1b535ef89019d113&src=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FBPBVE8TCAAISRCq.jpg", "from": {"name": "Vineel Reddy Pindi", "id": "522066115"}, "name": "Vineel Reddy Pindi (@vineelreddy) posted a photo on Twitter", "privacy": {"value": ""}, "actions": [{"link": "http://www.facebook.com/522066115/posts/10151421158841116", "name": "Comment"}, {"link": "http://www.facebook.com/522066115/posts/10151421158841116", "name": "Like"}, {"link": "https://twitter.com/vineelreddy?utm_source=fb&utm_medium=fb&utm_campaign=vineelreddy&utm_content=355877913951862785", "name": "@vineelreddy on Twitter"}], "updated_time": "2013-07-13T02:34:45+0000", "caption": "pic.twitter.com", "application": {"namespace": "twitter", "name": "Twitter", "id": "2231777543"}, "link": "http://twitter.com/vineelreddy/status/355877913951862785/photo/1/large?utm_source=fb&utm_medium=fb&utm_campaign=vineelreddy&utm_content=355877913951862785", "likes": {"count": 8, "data": [{"name": "Harish Krishnan", "id": "507442987"}, {"name": "Ankit Bahuguna", "id": "100000369702664"}, {"name": "Soumya Kanti Chakraborty", "id": "100000373533802"}, {"name": "Krishna Kumar Deep", "id": "100001606725901"}]}, "created_time": "2013-07-13T02:34:45+0000", "message": "Good morning #Yahoohack Hyderabad ! http://t.co/HIaYHJaZ1D", "icon": "https://fbcdn-photos-c-a.akamaihd.net/hphotos-ak-prn1/851565_10151397911967544_632525583_n.png", "type": "link", "id": "522066115_10151421158841116", "status_type": "app_created_story", "description": "Get the whole picture - and other photos from Vineel Reddy Pindi"}, {"from": {"name": "Vineel Reddy Pindi", "id": "522066115"}, "comments": {"paging": {"cursors": {"after": "MQ==", "before": "MQ=="}}, "data": [{"from": {"name": "Prashanth Meka", "id": "15927080"}, "like_count": 0, "can_remove": false, "created_time": "2013-07-12T18:51:55+0000", "message": "hi vineel, can we get any passes", "id": "10151419745916116_26106789", "user_likes": false}]}, "privacy": {"value": ""}, "actions": [{"link": "http://www.facebook.com/522066115/posts/10151419745916116", "name": "Comment"}, {"link": "http://www.facebook.com/522066115/posts/10151419745916116", "name": "Like"}, {"link": "https://twitter.com/vineelreddy?utm_source=fb&utm_medium=fb&utm_campaign=vineelreddy&utm_content=355606957807243264", "name": "@vineelreddy on Twitter"}], "updated_time": "2013-07-12T18:51:55+0000", "application": {"namespace": "twitter", "name": "Twitter", "id": "2231777543"}, "likes": {"count": 4, "data": [{"name": "Kashyap Kmbc", "id": "1416175006"}, {"name": "Sai Kiran", "id": "1183898551"}, {"name": "Gauthamraj Elango", "id": "1769367979"}, {"name": "Ioana Chiorean", "id": "715913940"}]}, "created_time": "2013-07-12T08:38:02+0000", "message": "1 day to go!! RT @ydn: Yahoo! Hack India: Hyderabad starts tomorrow at 8:00  Tune in here (@YDN) for live updates from Hyderabad!", "type": "status", "id": "522066115_10151419745916116", "status_type": "app_created_story", "icon": "https://fbcdn-photos-c-a.akamaihd.net/hphotos-ak-prn1/851565_10151397911967544_632525583_n.png"}, {"picture": "https://s-platform.ak.fbcdn.net/www/app_full_proxy.php?app=2231777543&v=1&size=z&cksum=98ad8602ccc94306e279ba9a44f8d304&src=http%3A%2F%2Fstatic2.hbr.org%2Fcs%2Fflatmm%2Fhed%2F20130709_2.jpg", "from": {"name": "Vineel Reddy Pindi", "id": "522066115"}, "name": "Would You Wear That Company's T-Shirt in Public?", "privacy": {"value": ""}, "actions": [{"link": "http://www.facebook.com/522066115/posts/10151418603166116", "name": "Comment"}, {"link": "http://www.facebook.com/522066115/posts/10151418603166116", "name": "Like"}, {"link": "https://twitter.com/vineelreddy?utm_source=fb&utm_medium=fb&utm_campaign=vineelreddy&utm_content=355381481885011970", "name": "@vineelreddy on Twitter"}], "updated_time": "2013-07-11T17:42:08+0000", "caption": "bit.ly", "application": {"namespace": "twitter", "name": "Twitter", "id": "2231777543"}, "link": "http://t.co/ZtvkHZyNaS", "likes": {"count": 1, "data": [{"name": "Santosh Viswanatham", "id": "100001851832321"}]}, "created_time": "2013-07-11T17:42:08+0000", "message": "Storytelling and Swag http://t.co/ZtvkHZyNaS", "icon": "https://fbcdn-photos-c-a.akamaihd.net/hphotos-ak-prn1/851565_10151397911967544_632525583_n.png", "type": "link", "id": "522066115_10151418603166116", "status_type": "app_created_story", "description": "If people shy away from your logo, maybe your story isn't strong enough."}]}}}
+
+
+Absolutely
+Achoo
+Ack
+Ahh
+Aha
+Ahem
+Ahoy
+Agreed
+Alas
+Alright
+Alrighty
+Alrighty-roo
+Alack
+Amen
+Anytime
+Argh
+Anyhoo
+Anyhow
+As if
+Attaboy
+Attagirl
+Awww
+Awful
+Bam
+Bah humbug
+Behold
+Bingo
+Blah
+Bless you
+Boo
+Bravo
+Cheers
+Crud
+Darn
+Dang
+Doh
+Drat
+Duh
+Eek
+Eh
+Gee
+Geepers
+Gee Whiz
+Golly
+Goodnes
+Goodness Gracious
+Gosh
+Ha
+Hallelujah
+Hey
+Hi
+Hmm
+Huh
+Indeed
+Jeez
+My gosh
+No
+Now
+Nah
+Oops
+Ouch
+Phew
+Please
+Rats
+Shoot
+Shucks
+There
+Tut
+Uggh
+Waa
+What
+Woah
+Woops
+Wow
+Yay
+Yes
+Yikes
+
+
+Pleasure/Pain
+Angry
+acrimonious, angry, annoyed, appalled, bitter, boiling, cross, devastated, disgusted, enraged, frustrated, fuming, furious, hostile, in a huff, in a stew, incensed, indignant, inflamed, infuriated, irate, irritated, livid, mad, offended, outraged, piqued, provoked, rageful, resentful, sullen, up in arms, virulent, worked up, wrathful, wrought up,
+Sad
+aching, afflicted, agonized, anguished, bereaved, blue, cheerless, clouded, crestfallen, crushed, dark, dejected, depressed, despairing, despondent, disconsolate, discontented, discouraged, disheartened, dismal, displeased, distressed, dolorous, down, downcast, downhearted, dreadful, dreary, dull, embarrassed, flat, frowning, funereal, gloomy, glum, grief-stricken, grieved, guilt, hapless, heartbroken, heavyhearted, humiliated, hurt, ill at ease, in despair, in pain, in the dumps, injured, joyless, lonely, low spirited, low, lugubrious, melancholy, moody, moping, mournful, mumpish [huh?], offended, oppressed, out of sorts, pathetic, piteous, regretful, remorse, rueful, sad, shamed, shocked, somber, sorrowful, spiritless, suffering, sulky, sullen, tortured, tragic, unhappy, victimized, woebegone, woeful, worried,
+Happy
+airy, amused, animated, beatific, blissful, blithe, bright, brisk, buoyant, cheerful, cheery, comfortable, contented, convivial, debonair, ecstatic, elated, enthusiastic, excited, exhilarated, exultant, festive, free & easy, frisky, genial, glad, gleeful, great, happy, high-spirited, hilarious, humorous, important, inspired, jaunty, jocular, jolly, jovial, joyful, joyous, jubilant, laughting, lighthearted, lively, lucky, merry, mirthful, overjoyed, peaceful, playful, pleased, proud, rapturous, satisfied, saucy, self-satisfied, serene, sparkling, spirited, sprightly, sunny, terrific, thankful, tranquil, transported, vivacious,
+Ecstatic
+delighted, ecstatic, fabulous, fantastic, overjoyed,
+
+
+Power/Control/Responsibility
+
+Irresistible
+aggressive, exhuberent, immortal, indestructible, invincible, invulnerable, irresistible, powerful, unstoppable,
+Powerless
+bashful, beaten down, blocked, defeated, discouraged, disorganized, exhausted hopeless, irresponsible, overwhelmed, powerless, stifled, thwarted, worn down, worn out,
+Out of control
+abused, careless, controlled, forced, impotent, obligated, obliterated, out of control, powerless, reckless, vulnerable, weak,
+Apathetic
+apathetic, complacent, full of ennui, immobilized, lazy, lethargic, numb, passive, quiescent, unconcerned, unmotivated,
+Adequate
+adequate, capable, competent, composed, confident, encouraged, excited, in control, organized, responsible,
+
+
+Attachment
+
+Alone
+alone, cut off, excluded, forsaken, isolated, left out, rejected, shut out, detached, lonely, lonesome, misunderstood,
+Independent
+arrogant, autonomous, cocky, independent, strong, macho,
+Attached
+affectionate, attached, belonging, captivated, cherished, compassionate, connected, empathetic, included, liked, loved, loving, understood,
+Codependent
+addicted, codependent, insecure, needy, sympathetic,
+Hated
+abandoned, chastised, criticized, deserted, discarded, forsaken, hated, ignored, left out, let down, overlooked, punished, rejected, replaced, unapproved of, unlovable, unloved,
+Loved
+accepted, adored, adorable, approved of, desirable, entrusted, loved, validated, valued, welcomed,
+Social standing / face
+
+Belittled
+belittled, chagrined, degraded, diminished, discounted, discredited, disgraced, disrespected, insignificant, underestimated, unsupported,
+Embarrassed
+ashamed, awkward, disparaged, embarrassed, guilty,
+Average
+average, common, ordinary,
+Esteemed
+admired, appreciated, esteemed, respected, revered, significant, supported, valued, worshiped,
+Justice
+
+Cheated
+abused, accused, betrayed, cheated, coerced, conned, deceived, disparaged, duped, exploited, framed, lied to, manipulated, tricked, victimized, violated,
+Singled out
+affronted, categorized, cross-examined, guilty, interrogated, judged, labeled, rated, singled out, stereotyped, wronged,
+Justified
+absolved, acquitted, appeased, justified, redeemed, satisfied, vindicated,
+Entitled
+entitled, exempt, favored, immune, privileged,
+Freedom
+
+Trapped
+deceived, cornered, imprisoned, optionless, outmaneuvered, set up, stifled, trapped, tricked,
+Burdened
+burdened, obligated, pressured, put upon, thwarted,
+Free
+autonomous, free, independent, released, unshackled,
+Direction/Focus
+
+Derailed
+derailed, disjointed, disoriented, torn,
+Lost
+baffled, bewildered, confused, lost, unfocussed,
+Focused
+committed, complacent, determined, focused, in the zone,
+Obsessed
+compelled, consumed, obsessed,
+Desire/Interest
+
+Demoralized
+demoralized, disappointed, discouraged, disheartened, disillusioned, disinclined, repulsed, stifled, thwarted,
+Bored
+ambivalent, apathetic, bored, complacent, full of ennui, indifferent, lackadaisical, unmotivated,
+Attracted
+absorbed, affected, agog, full of anticipation, anxious, attracted, avid, challenged, concerned, confident, craving, curious, dedicated, desirous, eager, earnest, enchanted, engrossed, enthusiastic, excited, fascinated, fervent, fervid, hopeful, inquisitive, inspiring, intent, interested, intrigued, keen, motivated, needed, nosey, snoopy, zealous,
+Lustful
+addicted, ardent, aroused, horny, hot and bothered, infatuated, lustful, needy, passionate, turned on, yearning,
+Safety/Security
+
+Fearful
+afraid, aghast, alarmed, anxious, appalled, apprehensive, attacked, awed, cautious, chicken, cowardly, defenseless, diffident, dismayed, doubtful, exposed, fainthearted, fearful, fidgety, frightened, hesitant, horrified, hysterical, in fear, insecure, irresolute, menaced, misgiving, nervous, panicked, petrified, phobic, quaking, restful, scared, shaky, shocked, suspicious, terrified, terrorized, threatened, timid, timorous, trembling, tremulous, upset, worried, yellow,
+Anxious
+apprehensive, cautious, concerned, distrustful, doubtful, dubious, full of misgiving, hesitant, indecisive, pensive, perplexed, questioning, skeptical, suspicious, tense, unbelieving, uncertain, uncomfortable, wavering,
+Fearless
+audacious, bold, brave, certain, confident, courageous, daring, dauntless, determined, encouraged, enterprising, gallant, hardy, heroic, reassured, resolute, secure, self-reliant, spirited, stout hearted,
+Safe
+at ease, calm, comfortable, composed, peaceful, secure,
+Surprise
+astonished, bewildered, confused, shocked, startled, surprised,
+
+
+Strong Happy
+Delighted
+Ebullient
+Ecstatic
+Elated
+Energetic
+Enthusiastic
+Euphoric
+Excited
+Exhilarated
+Overjoyed
+Thrilled
+Tickled pink
+Turned on
+Vibrant
+Zippy
+
+Medium Happy
+Medium
+Aglow
+Buoyant
+Cheerful
+Elevated
+Gleeful
+Happy
+In high spirits
+Jovial
+Light-hearted
+Lively
+Merry
+Riding high
+Sparkling
+Up
+
+Light Happy
+Contented
+Cool
+Fine
+Genial
+Glad
+Gratified
+Keen
+Pleasant
+Pleased
+Satisfied
+Serene
+Sunny
+
+Strong Caring
+Adoring
+Ardent
+Cherishing
+Compassionate
+Crazy about
+Devoted
+Doting
+Fervent
+Idolizing
+Infatuated
+Passionate
+Wild about
+Worshipful
+Zealous
+
+Medium caring
+Admiring
+Affectionate
+Attached
+Fond
+Fond of
+Huggy
+Kind
+Kind-hearted
+Loving
+Partial
+Soft on
+Sympathetic
+Tender
+Trusting
+Warm-hearted
+
+Light caring
+Appreciative
+Attentive
+Considerate
+Friendly
+Interested in
+Kind
+Like
+Respecting
+Thoughtful
+Tolerant
+Warm toward
+Yielding
+
+Strong depression
+Alienated
+Barren
+Beaten
+Bleak
+Bleeding
+Dejected
+Depressed
+Desolate
+Despondent
+Dismal
+Empty
+Gloomy
+Grieved
+Grim
+Hopeless
+In despair
+Woeful
+Worried
+
+Medium depression
+Awful
+Blue
+Crestfallen
+Demoralized
+Devalued
+Discouraged
+Dispirited
+Distressed
+Downcast
+Downhearted
+Fed up
+Lost
+Melancholy
+Miserable
+Regretful
+Rotten
+Sorrowful
+Tearful
+Upset
+Weepy
+
+Light depression
+Blah
+Disappointed
+Down
+Funk
+Glum
+Low
+Moody
+Morose
+Somber
+Subdued
+Uncomfortable
+Unhappy
+
+Strong Inadequateness
+Blemished
+Blotched
+Broken
+Crippled
+Damaged
+False
+Feeble
+Finished
+Flawed
+Helpless
+Impotent
+Inferior
+Invalid
+Powerless
+Useless
+Washed up
+Whipped
+Worthless
+Zero
+
+Medium Inadequateness
+Ailing
+Defeated
+Deficient
+Dopey
+Feeble
+Helpless
+Impaired
+Imperfect
+Incapable
+Incompetent
+Incomplete
+Ineffective
+Inept
+Insignificant
+Lacking
+Lame
+Overwhelmed
+Small
+Substandard
+Unimportant
+
+Light Inadequateness
+Dry
+Incomplete
+Meager
+Puny
+Tenuous
+Tiny
+Uncertain
+Unconvincing
+Unsure
+Weak
+Wishful
+
+Strong Fear
+Alarmed
+Appalled
+Desperate
+Distressed
+Frightened
+Horrified
+Intimidated
+Panicky
+Paralyzed
+Petrified
+Shocked
+Terrified
+Terror-stricken
+Wrecked
+
+Medium Fear
+Afraid
+Apprehensive
+Awkward
+Defensive
+Fearful
+Fidgety
+Fretful
+Jumpy
+Nervous
+Scared
+Shaky
+Skittish
+Spineless
+Taut
+Threatened
+Troubled
+Wired
+
+Light Fear
+Anxious
+Careful
+Cautious
+Disquieted
+Goose-bumpy
+Shy
+Tense
+Timid
+Uneasy
+Unsure
+Watchful
+Worried
+
+Strong Confusion
+Baffled
+Befuddled
+Chaotic
+Confounded
+Confused
+Dizzy
+Flustered
+Rattled
+Reeling
+Shocked
+Shook up
+Speechless
+Startled
+Stumped
+Stunned
+Taken-aback
+Thrown
+Thunderstruck
+Trapped
+
+Medium Confusion
+Adrift
+Ambivalent
+Bewildered
+Puzzled
+Blurred
+Disconcerted
+Disordered
+Disorganized
+Disquieted
+Disturbed
+Foggy
+Frustrated
+Misled
+Mistaken
+Misunderstood
+Mixed up
+Perplexed
+Troubled
+
+Light Confusion
+Distracted
+Uncertain
+Uncomfortable
+Undecided
+Unsettled
+Unsure
+
+Strong Hurt
+Abused
+Aching
+Anguished
+Crushed
+Degraded
+Destroyed
+Devastated
+Discarded
+Disgraced
+Forsaken
+Humiliated
+Mocked
+Punished
+Rejected
+Ridiculed
+Ruined
+Scorned
+Stabbed
+Tortured
+
+Medium Hurt
+Annoyed
+Belittled
+Cheapened
+Criticized
+Damaged
+Depreciated
+Devalued
+Discredited
+Distressed
+Impaired
+Injured
+Maligned
+Marred
+Miffed
+Mistreated
+Resentful
+Troubled
+Used
+Wounded
+
+Light Hurt
+Let down
+Minimized
+Neglected
+Put away
+Put down
+Rueful
+Tender
+Touched
+Unhappy
+
+Strong Anger
+Affronted
+Belligerent
+Bitter
+Burned up
+Enraged
+Fuming
+Furious
+Heated
+Incensed
+Infuriated
+Intense
+Outraged
+Provoked
+Seething
+Storming
+Truculent
+Vengeful
+Vindictive
+Wild
+
+Medium Anger
+Aggravated
+Annoyed
+Antagonistic
+Crabby
+Cranky
+Exasperated
+Fuming
+Grouchy
+Hostile
+Ill-tempered
+Indignant
+Irate
+Irritated
+Offended
+Ratty
+Resentful
+Sore
+Spiteful
+Testy
+Ticked off
+
+Light Anger
+Bugged
+Chagrined
+Dismayed
+Galled
+Grim
+Impatient
+Irked
+Petulant
+Resentful
+Sullen
+Uptight
+
+Strong Loneliness
+Abandoned
+Black
+Cut off
+Deserted
+Destroyed
+Empty
+Forsaken
+Isolated
+Marooned
+Neglected
+Ostracized
+Outcast
+Rejected
+Shunned
+
+Medium Loneliness
+Alienated
+Alone
+Apart
+Cheerless
+Companionless
+Dejected
+Despondent
+Estranged
+Excluded
+Left out
+Leftover
+Lonely
+Oppressed
+Uncherished
+
+Light Loneliness
+Blue
+Detached
+Discouraged
+Distant
+Insulated
+Melancholy
+Remote
+Separate
+Withdrawn
+
+Strong Remorse
+Abashed
+Debased
+Degraded
+Delinquent
+Depraved
+Disgraced
+Evil
+Exposed
+Humiliated
+Judged
+Mortified
+Shamed
+Sinful
+Wicked
+Wrong
+
+Medium Remorse
+Apologetic
+Ashamed
+Contrite
+Culpable
+Demeaned
+Downhearted
+Flustered
+Guilty
+Penitent
+Regretful
+Remorseful
+Repentant
+Shamefaced
+Sorrowful
+Sorry
+
+Light Remorse
+Bashful
+Blushing
+Chagrined
+Chastened
+Crestfallen
+Embarrassed
+Hesitant
+Humble
+Meek
+Regretful
+Reluctant
+Sheepish
+
+
+(?i)\b(ha(ha)+|he(he)+|lol|rofl|lmfao|lulz|lolz|rotfl|lawl|hilarious)\b
+(?i)\b(a+rgh|angry|annoyed|annoying|appalled|bitter|cranky|hate|hating|mad)\b'
+(?i)\b(yes|yay|hallelujah|hurray|bingo|amused|cheerful|excited|glad|proud)\b
+(?i)\b(yikes|gosh|baffled|stumped|surprised|shocked)\b
+(?i)\b(wtf|wth|omfg|hell|ass|bitch|bullshit|bloody|fucking?|shit+y?|crap+y?)\b|\b(fuck|damn|piss|screw|suck)e?d?\b
