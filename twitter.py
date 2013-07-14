@@ -21,10 +21,10 @@ AUTHORIZE_URL = "https://api.twitter.com/oauth/authorize?oauth_token="
 ACCESS_TOKEN_URL = "https://api.twitter.com/oauth/access_token"
  
 TWITTER_ENDPOINT = "https://api.twitter.com/1.1/$QUERY$"
-TWITTER_CONSUMER_KEY = "36LXFREo2t29U54LGkw"
-TWITTER_CONSUMER_SECRET = "WuOWDFdG2AB6nMFSv0rKKui0XtR0yAK1Gg089XG9EM"
-TWITTER_OAUTH_TOKEN = "326883621-iaL4LpgYvIq7y9K2K1iOdFj2IKrIrpd0oKwE1Qo"
-TWITTER_OAUTH_TOKENSECRET = "wAjLcWaKZo8X3ouo9squ5hUIrRpIwBRTmJp2meDKY0"
+TWITTER_CONSUMER_KEY = ""
+TWITTER_CONSUMER_SECRET = ""
+TWITTER_OAUTH_TOKEN = ""
+TWITTER_OAUTH_TOKENSECRET = ""
 TWITTER_OAUTH_HEADER = 'OAuth oauth_consumer_key="xvz1evFS4wEEPTGEFPHBog", oauth_nonce="kYjzVBB8Y0ZFabxSWbWovY3uYSQ2pTgmZeNu2VS4cg", oauth_signature="tnnArxj06cWHq44gCs1OSKk%2FjLY%3D", oauth_signature_method="HMAC-SHA1", oauth_timestamp="$OAUTH_TIME$", oauth_token="$OAUTH_TOKEN$",oauth_version="1.0"'
 '''
 	{

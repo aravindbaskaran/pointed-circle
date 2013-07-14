@@ -6,9 +6,9 @@ import datetime
 import utils
 
 # !!! Delete before commit !!!
-FACEBOOK_APP_ID = "562009380503790"
-FACEBOOK_APP_SECRET = "3f3f25bcd25163150073bb42a86fb442"
-FACEBOOK_ACCESS_TOKEN = "CAACEdEose0cBAES3lTGPeIZCqZC6t1ljNRf3JDmf5Khri7nqOCvV8mzCL6NFyg2ZC21iibXRr6IrMylD1XB4Rt31lprRhps0prEeEmya1F8mt6INZB9BQaP3ZBIMzCyy7vnmmZCZANm6UhxtdnsoMgf6CLKE1MVbScZD"
+FACEBOOK_APP_ID = ""
+FACEBOOK_APP_SECRET = ""
+FACEBOOK_ACCESS_TOKEN = ""
 FACEBOOK_FQL_ENDPOINT = "https://graph.facebook.com/fql?q=$QUERY$&format=json&access_token=$ACCESS_TOKEN$"
 FACEBOOK_GRAPH_ENDPOINT = "https://graph.facebook.com/$QUERY$format=json&access_token=$ACCESS_TOKEN$"
 # Optionally set default permissions to request, e.g: ['email', 'user_about_me']
